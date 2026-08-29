@@ -689,6 +689,7 @@
   </programme>
   <programme channel="RTHK31" start="20260901190000 +0800" stop="20260901193000 +0800">
     <title lang="zh">新聞天地</title>
+    <desc lang="zh">20260901</desc>
   </programme>
   <programme channel="RTHK31" start="20260901193000 +0800" stop="20260901202500 +0800">
     <title lang="zh">飛馳人生熱愛篇</title>
@@ -870,6 +871,7 @@
   </programme>
   <programme channel="RTHK31" start="20260902190000 +0800" stop="20260902193000 +0800">
     <title lang="zh">新聞天地</title>
+    <desc lang="zh">20260902</desc>
   </programme>
   <programme channel="RTHK31" start="20260902193000 +0800" stop="20260902202500 +0800">
     <title lang="zh">飛馳人生熱愛篇</title>
@@ -2317,6 +2319,7 @@
   </programme>
   <programme channel="RTHK32" start="20260901190000 +0800" stop="20260901193000 +0800">
     <title lang="zh">新聞天地</title>
+    <desc lang="zh">20260901</desc>
   </programme>
   <programme channel="RTHK32" start="20260901193000 +0800" stop="20260901200000 +0800">
     <title lang="zh">縱橫天下事</title>
@@ -2504,6 +2507,7 @@
   </programme>
   <programme channel="RTHK32" start="20260902190000 +0800" stop="20260902193000 +0800">
     <title lang="zh">新聞天地</title>
+    <desc lang="zh">20260902</desc>
   </programme>
   <programme channel="RTHK32" start="20260902193000 +0800" stop="20260902200000 +0800">
     <title lang="zh">港好十五五</title>
