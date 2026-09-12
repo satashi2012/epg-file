@@ -15,211 +15,6 @@
   <channel id="RTHK35">
     <display-name lang="zh">RTHK35</display-name>
   </channel>
-  <programme channel="RTHK31" start="20260911000000 +0800" stop="20260911003000 +0800">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang="zh">第一千二百四十四集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911003000 +0800" stop="20260911010000 +0800">
-    <title lang="zh">鏗鏘集</title>
-    <desc lang="zh">宗教與旅遊</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911010000 +0800" stop="20260911020000 +0800">
-    <title lang="zh">飛馳人生熱愛篇</title>
-    <desc lang="zh">第二十二集：母親宣佈林臻東將加入萬事車隊</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911020000 +0800" stop="20260911023000 +0800">
-    <title lang="zh">十八好時光</title>
-    <desc lang="zh">十八好時光 9月10日</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911023000 +0800" stop="20260911033000 +0800">
-    <title lang="zh">消失的兇手</title>
-    <desc lang="zh">第十集: 愛製作動物標本的嫌疑人</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911033000 +0800" stop="20260911043000 +0800">
-    <title lang="zh">太平年</title>
-    <desc lang="zh">第十集：道義何存</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911043000 +0800" stop="20260911053000 +0800">
-    <title lang="zh">第十八屆“香港盃”外交知識競賽</title>
-    <desc lang="zh">第十八屆“香港盃”外交知識競賽</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911053000 +0800" stop="20260911060000 +0800">
-    <title lang="zh">鏗鏘集</title>
-    <desc lang="zh">宗教與旅遊</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911060000 +0800" stop="20260911063000 +0800">
-    <title lang="zh">凝聚香港</title>
-    <desc lang="zh">第一千一百零四集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911063000 +0800" stop="20260911064500 +0800">
-    <title lang="zh">BobieLand</title>
-    <desc lang="zh">第三百零一集 - 【嘉賓來了】一把口一個樂團- Beatboxer Heartgrey</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911064500 +0800" stop="20260911065500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">鉛筆</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911065500 +0800" stop="20260911070500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">褲</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911070500 +0800" stop="20260911071500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">磅秤</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911071500 +0800" stop="20260911072300 +0800">
-    <title lang="zh">嘰哩咕嚕狂想曲</title>
-    <desc lang="zh">搖滾樂</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911072300 +0800" stop="20260911073000 +0800">
-    <title lang="zh">嘰哩咕嚕狂想曲</title>
-    <desc lang="zh">我愛整潔</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911073000 +0800" stop="20260911080000 +0800">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang="zh">第一千二百四十四集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911080000 +0800" stop="20260911080500 +0800">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh">時裝薈；「拍住上」電影場景展</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911080500 +0800" stop="20260911100000 +0800">
-    <title lang="zh">千禧年代</title>
-    <desc lang="zh">千禧年代 9月11日</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911100000 +0800" stop="20260911105500 +0800">
-    <title lang="zh">林則徐：虎門銷煙以外</title>
-    <desc lang="zh">第五集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911105500 +0800" stop="20260911110000 +0800">
-    <title lang="zh">政正關你事</title>
-    <desc lang="zh">民青局-18區關愛健康巡禮 ｜免費篩查兼有得玩｜港大醫學院一齊幫你健康D</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911110000 +0800" stop="20260911110500 +0800">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh">時裝薈；「拍住上」電影場景展</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911110500 +0800" stop="20260911111000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911111000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">香江暖流</title>
-    <desc lang="zh">香江暖流《Music Five》</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911120000 +0800" stop="20260911123000 +0800">
-    <title lang="zh">31看世界 - 千年陝菜</title>
-    <desc lang="zh">第三集：麵裏乾坤</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911123000 +0800" stop="20260911130000 +0800">
-    <title lang="zh">31看世界 - 千年陝菜</title>
-    <desc lang="zh">第四集：三秦五味</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911130000 +0800" stop="20260911130700 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911130700 +0800" stop="20260911131000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911131000 +0800" stop="20260911140000 +0800">
-    <title lang="zh">精靈一點</title>
-    <desc lang="zh">精靈一點 9月11日</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911140000 +0800" stop="20260911140500 +0800">
-    <title lang="zh">政正關你事</title>
-    <desc lang="zh">民青局-18區關愛健康巡禮 ｜免費篩查兼有得玩｜港大醫學院一齊幫你健康D</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911140500 +0800" stop="20260911145000 +0800">
-    <title lang="zh">六姊妹</title>
-    <desc lang="zh">第十八集：方濤找家歡深談</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911145000 +0800" stop="20260911154000 +0800">
-    <title lang="zh">六姊妹</title>
-    <desc lang="zh">第十九集：家麗打了家喜一巴掌</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911154000 +0800" stop="20260911160500 +0800">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang="zh">第一千二百四十四集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911160500 +0800" stop="20260911163000 +0800">
-    <title lang="zh">凝聚香港</title>
-    <desc lang="zh">第一千一百零四集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911163000 +0800" stop="20260911164500 +0800">
-    <title lang="zh">BobieLand</title>
-    <desc lang="zh">第三百零二集 - 【玩轉星期五】- 搞笑大激戰</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911164500 +0800" stop="20260911165500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">梳子</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911165500 +0800" stop="20260911170500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">椅子</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911170500 +0800" stop="20260911171500 +0800">
-    <title lang="zh">奇趣100 FUN</title>
-    <desc lang="zh">剪刀</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911171500 +0800" stop="20260911172300 +0800">
-    <title lang="zh">嘰哩咕嚕狂想曲</title>
-    <desc lang="zh">快樂的小鳥</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911172300 +0800" stop="20260911173000 +0800">
-    <title lang="zh">嘰哩咕嚕狂想曲</title>
-    <desc lang="zh">Tra La La大合唱</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911173000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">鏗鏘集</title>
-    <desc lang="zh">宗教與旅遊</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911180000 +0800" stop="20260911183000 +0800">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang="zh">第一千二百四十五集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911183000 +0800" stop="20260911190000 +0800">
-    <title lang="zh">凝聚香港</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911190000 +0800" stop="20260911193000 +0800">
-    <title lang="zh">新聞天地</title>
-    <desc lang="zh">20260911</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911193000 +0800" stop="20260911202500 +0800">
-    <title lang="zh">飛馳人生熱愛篇</title>
-    <desc lang="zh">第二十三集：葉功讓紀星準備兩輛車到現場</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911202500 +0800" stop="20260911203000 +0800">
-    <title lang="zh">政正關你事 - 官員講話摘要</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911203000 +0800" stop="20260911212000 +0800">
-    <title lang="zh">太平年</title>
-    <desc lang="zh">第十一集：殿前刺奸</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911212000 +0800" stop="20260911212500 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">方形象紋金飾片</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911212500 +0800" stop="20260911213000 +0800">
-    <title lang="zh">政正關你事 - 官員講話摘要</title>
-  </programme>
-  <programme channel="RTHK31" start="20260911213000 +0800" stop="20260911220000 +0800">
-    <title lang="zh">太陽小記者- 2026西域記</title>
-    <desc lang="zh">那年夏天的友共情</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911220000 +0800" stop="20260911222500 +0800">
-    <title lang="zh">廣播道會客室</title>
-    <desc lang="zh">廣播道會客室 9月11日</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911222500 +0800" stop="20260911223000 +0800">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh">時裝薈；「拍住上」電影場景展</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911223000 +0800" stop="20260911233000 +0800">
-    <title lang="zh">林則徐：虎門銷煙以外</title>
-    <desc lang="zh">第五集</desc>
-  </programme>
-  <programme channel="RTHK31" start="20260911233000 +0800" stop="20260912000000 +0800">
-    <title lang="zh">凝聚香港</title>
-  </programme>
   <programme channel="RTHK31" start="20260912000000 +0800" stop="20260912003000 +0800">
     <title lang="zh">灣區全媒睇</title>
     <desc lang="zh">第一千二百四十五集</desc>
@@ -258,6 +53,7 @@
   </programme>
   <programme channel="RTHK31" start="20260912060000 +0800" stop="20260912063000 +0800">
     <title lang="zh">凝聚香港</title>
+    <desc lang="zh">第一千一百零五集</desc>
   </programme>
   <programme channel="RTHK31" start="20260912063000 +0800" stop="20260912064500 +0800">
     <title lang="zh">BobieLand</title>
@@ -293,6 +89,7 @@
   </programme>
   <programme channel="RTHK31" start="20260912080500 +0800" stop="20260912090000 +0800">
     <title lang="zh">星期六問責</title>
+    <desc lang="zh">星期六問責 9月12日</desc>
   </programme>
   <programme channel="RTHK31" start="20260912090000 +0800" stop="20260912093000 +0800">
     <title lang="zh">鏗鏘集</title>
@@ -308,6 +105,7 @@
   </programme>
   <programme channel="RTHK31" start="20260912105000 +0800" stop="20260912105500 +0800">
     <title lang="zh">政正關你事 - 官員講話摘要</title>
+    <desc lang="zh">政正關你事 - 官員講話摘要 #53 (孫玉菡、黃偉綸、何永賢)</desc>
   </programme>
   <programme channel="RTHK31" start="20260912105500 +0800" stop="20260912112500 +0800">
     <title lang="zh">香港故事:尾巴會說話(英文版)</title>
@@ -326,9 +124,11 @@
   </programme>
   <programme channel="RTHK31" start="20260912130500 +0800" stop="20260912140000 +0800">
     <title lang="zh">非凡人物</title>
+    <desc lang="zh">梁文韜：龍鳳呈祥</desc>
   </programme>
   <programme channel="RTHK31" start="20260912140000 +0800" stop="20260912140500 +0800">
     <title lang="zh">政正關你事 - 官員講話摘要</title>
+    <desc lang="zh">政正關你事 - 官員講話摘要 #53 (孫玉菡、黃偉綸、何永賢)</desc>
   </programme>
   <programme channel="RTHK31" start="20260912140500 +0800" stop="20260912143000 +0800">
     <title lang="zh">時事摘錄</title>
@@ -401,6 +201,7 @@
   </programme>
   <programme channel="RTHK31" start="20260913000000 +0800" stop="20260913010000 +0800">
     <title lang="zh">非凡人物</title>
+    <desc lang="zh">梁文韜：龍鳳呈祥</desc>
   </programme>
   <programme channel="RTHK31" start="20260913010000 +0800" stop="20260913013000 +0800">
     <title lang="zh">體壇快閃</title>
@@ -439,6 +240,7 @@
   </programme>
   <programme channel="RTHK31" start="20260913063000 +0800" stop="20260913073000 +0800">
     <title lang="zh">非凡人物</title>
+    <desc lang="zh">梁文韜：龍鳳呈祥</desc>
   </programme>
   <programme channel="RTHK31" start="20260913073000 +0800" stop="20260913080000 +0800">
     <title lang="zh">鏗鏘集</title>
@@ -494,6 +296,7 @@
   </programme>
   <programme channel="RTHK31" start="20260913110000 +0800" stop="20260913112500 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月12日</desc>
   </programme>
   <programme channel="RTHK31" start="20260913112500 +0800" stop="20260913121000 +0800">
     <title lang="zh">照亮你</title>
@@ -665,6 +468,7 @@
   </programme>
   <programme channel="RTHK31" start="20260914131000 +0800" stop="20260914140000 +0800">
     <title lang="zh">精靈一點</title>
+    <desc lang="zh">精靈一點 9月14日</desc>
   </programme>
   <programme channel="RTHK31" start="20260914140000 +0800" stop="20260914140500 +0800">
     <title lang="zh">政正關你事</title>
@@ -933,7 +737,6 @@
   </programme>
   <programme channel="RTHK31" start="20260915220000 +0800" stop="20260915222500 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK31" start="20260915222500 +0800" stop="20260915223000 +0800">
     <title lang="zh">盛事傳城</title>
@@ -959,7 +762,6 @@
   </programme>
   <programme channel="RTHK31" start="20260916020000 +0800" stop="20260916023000 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK31" start="20260916023000 +0800" stop="20260916033000 +0800">
     <title lang="zh">消失的兇手</title>
@@ -1567,6 +1369,7 @@
   </programme>
   <programme channel="RTHK31" start="20260919090000 +0800" stop="20260919093000 +0800">
     <title lang="zh">鏗鏘集</title>
+    <desc lang="zh">如何說性</desc>
   </programme>
   <programme channel="RTHK31" start="20260919093000 +0800" stop="20260919102500 +0800">
     <title lang="zh">非凡香港</title>
@@ -1647,6 +1450,7 @@
   </programme>
   <programme channel="RTHK31" start="20260919213000 +0800" stop="20260919231500 +0800">
     <title lang="zh">周末大電影：錦繡前程</title>
+    <desc lang="zh">錦繡前程</desc>
   </programme>
   <programme channel="RTHK31" start="20260919231500 +0800" stop="20260919232000 +0800">
     <title lang="zh">盛事傳城</title>
@@ -1743,6 +1547,7 @@
   </programme>
   <programme channel="RTHK31" start="20260920110000 +0800" stop="20260920112500 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月19日</desc>
   </programme>
   <programme channel="RTHK31" start="20260920112500 +0800" stop="20260920121000 +0800">
     <title lang="zh">不完美受害人</title>
@@ -1814,259 +1619,6 @@
   <programme channel="RTHK31" start="20260920213000 +0800" stop="20260921000000 +0800">
     <title lang="zh">香港電台電視節目</title>
   </programme>
-  <programme channel="RTHK32" start="20260911000000 +0800" stop="20260911001000 +0800">
-    <title lang="zh">時事脈動</title>
-    <desc lang="zh">時事脈動 (英語)</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911001000 +0800" stop="20260911003500 +0800">
-    <title lang="zh">睇得見。聽得到（英文版）</title>
-    <desc lang="zh">巴有囍事</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911003500 +0800" stop="20260911010000 +0800">
-    <title lang="zh">綠惜見未來</title>
-    <desc lang="zh">聽石頭說．．．</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911010000 +0800" stop="20260911013000 +0800">
-    <title lang="zh">十八好時光</title>
-    <desc lang="zh">十八好時光 9月10日</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911013000 +0800" stop="20260911020000 +0800">
-    <title lang="zh">凝聚香港</title>
-    <desc lang="zh">第一千一百零四集</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911020000 +0800" stop="20260911031300 +0800">
-    <title lang="zh">寰宇直播</title>
-    <desc lang="zh">寰宇直播</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911031300 +0800" stop="20260911073000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911073000 +0800" stop="20260911073500 +0800">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh">時裝薈；「拍住上」電影場景展</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911073500 +0800" stop="20260911074000 +0800">
-    <title lang="zh">政正關你事</title>
-    <desc lang="zh">民青局-18區關愛健康巡禮 ｜免費篩查兼有得玩｜港大醫學院一齊幫你健康D</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911074000 +0800" stop="20260911080500 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911080500 +0800" stop="20260911100000 +0800">
-    <title lang="zh">千禧年代</title>
-    <desc lang="zh">千禧年代 9月11日</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911100000 +0800" stop="20260911100500 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911100500 +0800" stop="20260911103000 +0800">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang="zh">第一千二百四十四集</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911103000 +0800" stop="20260911103500 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911103500 +0800" stop="20260911110000 +0800">
-    <title lang="zh">凝聚香港</title>
-    <desc lang="zh">第一千一百零四集</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911110000 +0800" stop="20260911111000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911111000 +0800" stop="20260911112000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911112000 +0800" stop="20260911113000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">秘色瓷蓮花碗</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911113000 +0800" stop="20260911114000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911114000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911120000 +0800" stop="20260911121000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911121000 +0800" stop="20260911122000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911122000 +0800" stop="20260911123000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">青瓷釉下彩羽人纹盤口壺</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911123000 +0800" stop="20260911124000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911124000 +0800" stop="20260911130000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911130000 +0800" stop="20260911130700 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911130700 +0800" stop="20260911132000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911132000 +0800" stop="20260911133000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">馬王堆一號墓木槨</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911133000 +0800" stop="20260911133700 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911133700 +0800" stop="20260911140000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911140000 +0800" stop="20260911141000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911141000 +0800" stop="20260911142000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911142000 +0800" stop="20260911143000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">T形帛畫</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911143000 +0800" stop="20260911144000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911144000 +0800" stop="20260911150000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911150000 +0800" stop="20260911151000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911151000 +0800" stop="20260911152000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911152000 +0800" stop="20260911153000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">四牛鎏金騎士銅貯貝器</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911153000 +0800" stop="20260911154000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911154000 +0800" stop="20260911160000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911160000 +0800" stop="20260911161000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911161000 +0800" stop="20260911162000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911162000 +0800" stop="20260911163000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">青花蕭何月下追韓信圖梅瓶</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911163000 +0800" stop="20260911164000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911164000 +0800" stop="20260911170000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911170000 +0800" stop="20260911171000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911171000 +0800" stop="20260911172000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911172000 +0800" stop="20260911173000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">司馬金龍墓石雕棺床</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911173000 +0800" stop="20260911174000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911174000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911180000 +0800" stop="20260911181000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911181000 +0800" stop="20260911182000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911182000 +0800" stop="20260911183000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">鑲嵌綠松石獸面紋銅牌飾</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911183000 +0800" stop="20260911184000 +0800">
-    <title lang="zh">新聞簡報</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911184000 +0800" stop="20260911185000 +0800">
-    <title lang="zh">生活．健康．資訊</title>
-    <desc lang="zh">生活．健康．資訊</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911185000 +0800" stop="20260911190000 +0800">
-    <title lang="zh">國寶時刻</title>
-    <desc lang="zh">方形象紋金飾片</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911190000 +0800" stop="20260911193000 +0800">
-    <title lang="zh">新聞天地</title>
-    <desc lang="zh">20260911</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911193000 +0800" stop="20260911200000 +0800">
-    <title lang="zh">廣播道會客室</title>
-    <desc lang="zh">廣播道會客室 9月11日</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911200000 +0800" stop="20260911201500 +0800">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911201500 +0800" stop="20260911205500 +0800">
-    <title lang="zh">時事脈動</title>
-    <desc lang="zh">時事脈動 (英語)</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911205500 +0800" stop="20260911210000 +0800">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh">時裝薈；「拍住上」電影場景展</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911210000 +0800" stop="20260911215500 +0800">
-    <title lang="zh">非凡香港</title>
-    <desc lang="zh">嶺南大學新興科技 | 盂蘭文化節 | 游於藝乎 | CENTRESTAGE 2026</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911215500 +0800" stop="20260911220000 +0800">
-    <title lang="zh">悅讀憲法 英文版</title>
-    <desc lang="zh">經濟發展：憲法與繁榮未來</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911220000 +0800" stop="20260911220500 +0800">
-    <title lang="zh">政正關你事 - 官員講話摘要</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911220500 +0800" stop="20260911223000 +0800">
-    <title lang="zh">凝聚香港</title>
-  </programme>
-  <programme channel="RTHK32" start="20260911223000 +0800" stop="20260911230000 +0800">
-    <title lang="zh">時事摘錄</title>
-    <desc lang="zh">時事摘錄</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911230000 +0800" stop="20260911233000 +0800">
-    <title lang="zh">廣播道會客室</title>
-    <desc lang="zh">廣播道會客室 9月11日</desc>
-  </programme>
-  <programme channel="RTHK32" start="20260911233000 +0800" stop="20260912000000 +0800">
-    <title lang="zh">時事脈動</title>
-    <desc lang="zh">時事脈動 (英語)</desc>
-  </programme>
   <programme channel="RTHK32" start="20260912000000 +0800" stop="20260912001000 +0800">
     <title lang="zh">時事脈動</title>
     <desc lang="zh">時事脈動 (英語)</desc>
@@ -2081,9 +1633,11 @@
   </programme>
   <programme channel="RTHK32" start="20260912013000 +0800" stop="20260912020000 +0800">
     <title lang="zh">凝聚香港</title>
+    <desc lang="zh">第一千一百零五集</desc>
   </programme>
   <programme channel="RTHK32" start="20260912020000 +0800" stop="20260912073000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912073000 +0800" stop="20260912073500 +0800">
     <title lang="zh">盛事傳城</title>
@@ -2091,12 +1645,15 @@
   </programme>
   <programme channel="RTHK32" start="20260912073500 +0800" stop="20260912074000 +0800">
     <title lang="zh">政正關你事 - 官員講話摘要</title>
+    <desc lang="zh">政正關你事 - 官員講話摘要 #53 (孫玉菡、黃偉綸、何永賢)</desc>
   </programme>
   <programme channel="RTHK32" start="20260912074000 +0800" stop="20260912080500 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912080500 +0800" stop="20260912090000 +0800">
     <title lang="zh">星期六問責</title>
+    <desc lang="zh">星期六問責 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912090000 +0800" stop="20260912093000 +0800">
     <title lang="zh">時事摘錄</title>
@@ -2104,111 +1661,163 @@
   </programme>
   <programme channel="RTHK32" start="20260912093000 +0800" stop="20260912093500 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912093500 +0800" stop="20260912103000 +0800">
     <title lang="zh">理財新世代</title>
+    <desc lang="zh">理財新世代 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912103000 +0800" stop="20260912103500 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912103500 +0800" stop="20260912110000 +0800">
     <title lang="zh">凝聚香港</title>
+    <desc lang="zh">第一千一百零五集</desc>
   </programme>
   <programme channel="RTHK32" start="20260912110000 +0800" stop="20260912111000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912111000 +0800" stop="20260912113000 +0800">
+  <programme channel="RTHK32" start="20260912111000 +0800" stop="20260912112000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912112000 +0800" stop="20260912113000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">鷹頂金冠飾</desc>
   </programme>
   <programme channel="RTHK32" start="20260912113000 +0800" stop="20260912114000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912114000 +0800" stop="20260912120000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912120000 +0800" stop="20260912121000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912121000 +0800" stop="20260912123000 +0800">
+  <programme channel="RTHK32" start="20260912121000 +0800" stop="20260912122000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912122000 +0800" stop="20260912123000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">玉琮王</desc>
   </programme>
   <programme channel="RTHK32" start="20260912123000 +0800" stop="20260912124000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912124000 +0800" stop="20260912130000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912130000 +0800" stop="20260912130700 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912130700 +0800" stop="20260912133000 +0800">
+  <programme channel="RTHK32" start="20260912130700 +0800" stop="20260912132000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912132000 +0800" stop="20260912133000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">八曲葵花形螺鈿銅鏡</desc>
   </programme>
   <programme channel="RTHK32" start="20260912133000 +0800" stop="20260912133700 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912133700 +0800" stop="20260912140000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912140000 +0800" stop="20260912141000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912141000 +0800" stop="20260912143000 +0800">
+  <programme channel="RTHK32" start="20260912141000 +0800" stop="20260912142000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912142000 +0800" stop="20260912143000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">《文姬歸漢圖》卷</desc>
   </programme>
   <programme channel="RTHK32" start="20260912143000 +0800" stop="20260912144000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912144000 +0800" stop="20260912150000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912150000 +0800" stop="20260912151000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912151000 +0800" stop="20260912153000 +0800">
+  <programme channel="RTHK32" start="20260912151000 +0800" stop="20260912152000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912152000 +0800" stop="20260912153000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">汝窯天藍釉刻花鵝頸瓶</desc>
   </programme>
   <programme channel="RTHK32" start="20260912153000 +0800" stop="20260912154000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912154000 +0800" stop="20260912160000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912160000 +0800" stop="20260912161000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912161000 +0800" stop="20260912163000 +0800">
+  <programme channel="RTHK32" start="20260912161000 +0800" stop="20260912162000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912162000 +0800" stop="20260912163000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">白釉綠彩三系罐</desc>
   </programme>
   <programme channel="RTHK32" start="20260912163000 +0800" stop="20260912164000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912164000 +0800" stop="20260912170000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912170000 +0800" stop="20260912171000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912171000 +0800" stop="20260912173000 +0800">
+  <programme channel="RTHK32" start="20260912171000 +0800" stop="20260912172000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912172000 +0800" stop="20260912173000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">仇英《桃源仙境圖》</desc>
   </programme>
   <programme channel="RTHK32" start="20260912173000 +0800" stop="20260912174000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912174000 +0800" stop="20260912180000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912180000 +0800" stop="20260912181000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
-  <programme channel="RTHK32" start="20260912181000 +0800" stop="20260912183000 +0800">
+  <programme channel="RTHK32" start="20260912181000 +0800" stop="20260912182000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
+  </programme>
+  <programme channel="RTHK32" start="20260912182000 +0800" stop="20260912183000 +0800">
+    <title lang="zh">國寶時刻</title>
+    <desc lang="zh">孫位《高逸圖》卷</desc>
   </programme>
   <programme channel="RTHK32" start="20260912183000 +0800" stop="20260912184000 +0800">
     <title lang="zh">新聞簡報</title>
   </programme>
   <programme channel="RTHK32" start="20260912184000 +0800" stop="20260912190000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912190000 +0800" stop="20260912191500 +0800">
     <title lang="zh">新聞天地</title>
@@ -2216,15 +1825,18 @@
   </programme>
   <programme channel="RTHK32" start="20260912191500 +0800" stop="20260912193000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912193000 +0800" stop="20260912200000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912200000 +0800" stop="20260912201000 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
   <programme channel="RTHK32" start="20260912201000 +0800" stop="20260912201500 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912201500 +0800" stop="20260912202000 +0800">
     <title lang="zh">盛事傳城</title>
@@ -2232,6 +1844,7 @@
   </programme>
   <programme channel="RTHK32" start="20260912202000 +0800" stop="20260912203000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260912203000 +0800" stop="20260912210000 +0800">
     <title lang="zh">時事摘錄</title>
@@ -2239,6 +1852,7 @@
   </programme>
   <programme channel="RTHK32" start="20260912210000 +0800" stop="20260912220000 +0800">
     <title lang="zh">星期六問責</title>
+    <desc lang="zh">星期六問責 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912220000 +0800" stop="20260912220500 +0800">
     <title lang="zh">政正關你事</title>
@@ -2246,18 +1860,22 @@
   </programme>
   <programme channel="RTHK32" start="20260912220500 +0800" stop="20260912230000 +0800">
     <title lang="zh">理財新世代</title>
+    <desc lang="zh">理財新世代 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912230000 +0800" stop="20260912233000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260912233000 +0800" stop="20260913000000 +0800">
     <title lang="zh">生活．健康．資訊</title>
+    <desc lang="zh">生活．健康．資訊</desc>
   </programme>
   <programme channel="RTHK32" start="20260913000000 +0800" stop="20260913010000 +0800">
     <title lang="zh">生活．健康．資訊</title>
   </programme>
   <programme channel="RTHK32" start="20260913010000 +0800" stop="20260913013000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260913013000 +0800" stop="20260913073000 +0800">
     <title lang="zh">生活．健康．資訊</title>
@@ -2402,6 +2020,7 @@
   </programme>
   <programme channel="RTHK32" start="20260913203000 +0800" stop="20260913210000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月12日</desc>
   </programme>
   <programme channel="RTHK32" start="20260913210000 +0800" stop="20260913213000 +0800">
     <title lang="zh">看神州</title>
@@ -2579,6 +2198,7 @@
   </programme>
   <programme channel="RTHK32" start="20260914210000 +0800" stop="20260914213000 +0800">
     <title lang="zh">鏗鏘集</title>
+    <desc lang="zh">如何說性</desc>
   </programme>
   <programme channel="RTHK32" start="20260914213000 +0800" stop="20260914220000 +0800">
     <title lang="zh">夢想中華人物誌 (英文版)</title>
@@ -2605,6 +2225,7 @@
   </programme>
   <programme channel="RTHK32" start="20260915001000 +0800" stop="20260915003500 +0800">
     <title lang="zh">鏗鏘集</title>
+    <desc lang="zh">如何說性</desc>
   </programme>
   <programme channel="RTHK32" start="20260915003500 +0800" stop="20260915010000 +0800">
     <title lang="zh">夢想中華人物誌 (英文版)</title>
@@ -2747,7 +2368,6 @@
   </programme>
   <programme channel="RTHK32" start="20260915193000 +0800" stop="20260915200000 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK32" start="20260915200000 +0800" stop="20260915201500 +0800">
     <title lang="zh">晚間新聞</title>
@@ -2778,7 +2398,6 @@
   </programme>
   <programme channel="RTHK32" start="20260915230000 +0800" stop="20260915233000 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK32" start="20260915233000 +0800" stop="20260916000000 +0800">
     <title lang="zh">時事脈動</title>
@@ -2796,7 +2415,6 @@
   </programme>
   <programme channel="RTHK32" start="20260916010000 +0800" stop="20260916013000 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK32" start="20260916013000 +0800" stop="20260916020000 +0800">
     <title lang="zh">凝聚香港</title>
@@ -2904,7 +2522,7 @@
     <title lang="zh">時事脈動</title>
   </programme>
   <programme channel="RTHK32" start="20260916205500 +0800" stop="20260916210000 +0800">
-    <title lang="zh">盛事傳城</title>
+    <title lang="zh">生活．健康．資訊</title>
   </programme>
   <programme channel="RTHK32" start="20260916210000 +0800" stop="20260916213000 +0800">
     <title lang="zh">Power Up Your English 2.0</title>
@@ -3445,6 +3063,7 @@
   </programme>
   <programme channel="RTHK32" start="20260919193000 +0800" stop="20260919200000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月19日</desc>
   </programme>
   <programme channel="RTHK32" start="20260919200000 +0800" stop="20260919201000 +0800">
     <title lang="zh">晚間新聞</title>
@@ -3474,6 +3093,7 @@
   </programme>
   <programme channel="RTHK32" start="20260919230000 +0800" stop="20260919233000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月19日</desc>
   </programme>
   <programme channel="RTHK32" start="20260919233000 +0800" stop="20260920000000 +0800">
     <title lang="zh">生活．健康．資訊</title>
@@ -3483,6 +3103,7 @@
   </programme>
   <programme channel="RTHK32" start="20260920010000 +0800" stop="20260920013000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月19日</desc>
   </programme>
   <programme channel="RTHK32" start="20260920013000 +0800" stop="20260920073000 +0800">
     <title lang="zh">生活．健康．資訊</title>
@@ -3617,13 +3238,13 @@
   </programme>
   <programme channel="RTHK32" start="20260920203000 +0800" stop="20260920210000 +0800">
     <title lang="zh">雙城聯動</title>
+    <desc lang="zh">雙城聯動 9月19日</desc>
   </programme>
   <programme channel="RTHK32" start="20260920210000 +0800" stop="20260920213000 +0800">
     <title lang="zh">看神州</title>
   </programme>
   <programme channel="RTHK32" start="20260920213000 +0800" stop="20260920220000 +0800">
     <title lang="zh">縱橫天下事</title>
-    <desc lang="zh">縱橫天下事 (9月15日)</desc>
   </programme>
   <programme channel="RTHK32" start="20260920220000 +0800" stop="20260920220500 +0800">
     <title lang="zh">政正關你事</title>
@@ -3643,105 +3264,6 @@
   </programme>
   <programme channel="RTHK32" start="20260920233000 +0800" stop="20260921000000 +0800">
     <title lang="zh">生活．健康．資訊</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911000000 +0800" stop="20260911000100 +0800">
-    <title lang="zh">南來北往 29</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911000100 +0800" stop="20260911004900 +0800">
-    <title lang="zh">南來北往 30</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911004900 +0800" stop="20260911022300 +0800">
-    <title lang="zh">中國詩詞大會</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911022300 +0800" stop="20260911025900 +0800">
-    <title lang="zh">自然中國</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911025900 +0800" stop="20260911034600 +0800">
-    <title lang="zh">玫瑰的故事 27</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911034600 +0800" stop="20260911043200 +0800">
-    <title lang="zh">玫瑰的故事 28</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911043200 +0800" stop="20260911050000 +0800">
-    <title lang="zh">今日說法</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911050000 +0800" stop="20260911053000 +0800">
-    <title lang="zh">新聞聯播</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911053000 +0800" stop="20260911060000 +0800">
-    <title lang="zh">國家記憶</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911060000 +0800" stop="20260911083000 +0800">
-    <title lang="zh">朝聞天下</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911083000 +0800" stop="20260911091200 +0800">
-    <title lang="zh">生活圈</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911091200 +0800" stop="20260911095800 +0800">
-    <title lang="zh">愛情沒有神話 23</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911095800 +0800" stop="20260911104400 +0800">
-    <title lang="zh">愛情沒有神話 24</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911104400 +0800" stop="20260911113000 +0800">
-    <title lang="zh">愛情沒有神話 25</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911113000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">本草流芳</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911120000 +0800" stop="20260911123200 +0800">
-    <title lang="zh">新聞30分</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911123200 +0800" stop="20260911130100 +0800">
-    <title lang="zh">今日說法</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911130100 +0800" stop="20260911134700 +0800">
-    <title lang="zh">畫眉 34</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911134700 +0800" stop="20260911143400 +0800">
-    <title lang="zh">畫眉 35</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911143400 +0800" stop="20260911152000 +0800">
-    <title lang="zh">畫眉 36</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911152000 +0800" stop="20260911160600 +0800">
-    <title lang="zh">畫眉 37</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911160600 +0800" stop="20260911165400 +0800">
-    <title lang="zh">畫眉 38</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911165400 +0800" stop="20260911172600 +0800">
-    <title lang="zh">自然中國</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911172600 +0800" stop="20260911190000 +0800">
-    <title lang="zh">中國詩詞大會</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911190000 +0800" stop="20260911193500 +0800">
-    <title lang="zh">新聞聯播</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911193500 +0800" stop="20260911194100 +0800">
-    <title lang="zh">天氣預報</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911194100 +0800" stop="20260911200800 +0800">
-    <title lang="zh">國家記憶</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911200800 +0800" stop="20260911205400 +0800">
-    <title lang="zh">生逢其時 10</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911205400 +0800" stop="20260911214300 +0800">
-    <title lang="zh">生逢其時 11</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911214300 +0800" stop="20260911220000 +0800">
-    <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911220000 +0800" stop="20260911223200 +0800">
-    <title lang="zh">晚間新聞</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911223200 +0800" stop="20260911231500 +0800">
-    <title lang="zh">生活圈</title>
-  </programme>
-  <programme channel="RTHK33" start="20260911231500 +0800" stop="20260912000100 +0800">
-    <title lang="zh">南來北往 31</title>
   </programme>
   <programme channel="RTHK33" start="20260912000000 +0800" stop="20260912000100 +0800">
     <title lang="zh">南來北往 31</title>
@@ -3926,62 +3448,59 @@
   <programme channel="RTHK33" start="20260913214300 +0800" stop="20260913220000 +0800">
     <title lang="zh">焦點訪談</title>
   </programme>
-  <programme channel="RTHK33" start="20260913220000 +0800" stop="20260913223200 +0800">
+  <programme channel="RTHK33" start="20260913220000 +0800" stop="20260913223800 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260913223200 +0800" stop="20260913231800 +0800">
+  <programme channel="RTHK33" start="20260913223800 +0800" stop="20260914000800 +0800">
+    <title lang="zh">中國好人2025</title>
+  </programme>
+  <programme channel="RTHK33" start="20260914000000 +0800" stop="20260914000800 +0800">
+    <title lang="zh">中國好人2025</title>
+  </programme>
+  <programme channel="RTHK33" start="20260914000800 +0800" stop="20260914005500 +0800">
     <title lang="zh">開講啦</title>
   </programme>
-  <programme channel="RTHK33" start="20260913231800 +0800" stop="20260914000400 +0800">
+  <programme channel="RTHK33" start="20260914005500 +0800" stop="20260914014100 +0800">
     <title lang="zh">南來北往 35</title>
   </programme>
-  <programme channel="RTHK33" start="20260914000000 +0800" stop="20260914000400 +0800">
-    <title lang="zh">南來北往 35</title>
-  </programme>
-  <programme channel="RTHK33" start="20260914000400 +0800" stop="20260914005200 +0800">
+  <programme channel="RTHK33" start="20260914014100 +0800" stop="20260914022700 +0800">
     <title lang="zh">南來北往 36</title>
   </programme>
-  <programme channel="RTHK33" start="20260914005200 +0800" stop="20260914021700 +0800">
-    <title lang="zh">典籍裡的中國</title>
-  </programme>
-  <programme channel="RTHK33" start="20260914021700 +0800" stop="20260914025700 +0800">
+  <programme channel="RTHK33" start="20260914022700 +0800" stop="20260914025700 +0800">
     <title lang="zh">自然中國</title>
   </programme>
   <programme channel="RTHK33" start="20260914025700 +0800" stop="20260914034400 +0800">
     <title lang="zh">玫瑰的故事 33</title>
   </programme>
-  <programme channel="RTHK33" start="20260914034400 +0800" stop="20260914034600 +0800">
+  <programme channel="RTHK33" start="20260914034400 +0800" stop="20260914043000 +0800">
     <title lang="zh">玫瑰的故事 34</title>
   </programme>
-  <programme channel="RTHK33" start="20260914034600 +0800" stop="20260914043200 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK33" start="20260914043200 +0800" stop="20260914050000 +0800">
-    <title lang="zh">今日說法</title>
+  <programme channel="RTHK33" start="20260914043000 +0800" stop="20260914050000 +0800">
+    <title lang="zh">文脈春秋</title>
   </programme>
   <programme channel="RTHK33" start="20260914050000 +0800" stop="20260914053000 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260914053000 +0800" stop="20260914060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260914060000 +0800" stop="20260914083200 +0800">
+  <programme channel="RTHK33" start="20260914060000 +0800" stop="20260914083000 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260914083200 +0800" stop="20260914091500 +0800">
+  <programme channel="RTHK33" start="20260914083000 +0800" stop="20260914091200 +0800">
     <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260914091500 +0800" stop="20260914100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914091200 +0800" stop="20260914095800 +0800">
+    <title lang="zh">愛情沒有神話 34</title>
   </programme>
-  <programme channel="RTHK33" start="20260914100100 +0800" stop="20260914104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914095800 +0800" stop="20260914104400 +0800">
+    <title lang="zh">愛情沒有神話 35</title>
   </programme>
-  <programme channel="RTHK33" start="20260914104700 +0800" stop="20260914113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914104400 +0800" stop="20260914113000 +0800">
+    <title lang="zh">愛情沒有神話 36</title>
   </programme>
-  <programme channel="RTHK33" start="20260914113300 +0800" stop="20260914120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260914113000 +0800" stop="20260914120000 +0800">
+    <title lang="zh">本草流芳</title>
   </programme>
   <programme channel="RTHK33" start="20260914120000 +0800" stop="20260914123200 +0800">
     <title lang="zh">新聞30分</title>
@@ -3989,74 +3508,71 @@
   <programme channel="RTHK33" start="20260914123200 +0800" stop="20260914130100 +0800">
     <title lang="zh">今日說法</title>
   </programme>
-  <programme channel="RTHK33" start="20260914130100 +0800" stop="20260914133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260914130100 +0800" stop="20260914134700 +0800">
+    <title lang="zh">破密 11</title>
   </programme>
-  <programme channel="RTHK33" start="20260914133300 +0800" stop="20260914141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914134700 +0800" stop="20260914143400 +0800">
+    <title lang="zh">破密 12</title>
   </programme>
-  <programme channel="RTHK33" start="20260914141900 +0800" stop="20260914150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914143400 +0800" stop="20260914152000 +0800">
+    <title lang="zh">破密 13</title>
   </programme>
-  <programme channel="RTHK33" start="20260914150500 +0800" stop="20260914155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914152000 +0800" stop="20260914160700 +0800">
+    <title lang="zh">破密 14</title>
   </programme>
-  <programme channel="RTHK33" start="20260914155100 +0800" stop="20260914163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914160700 +0800" stop="20260914170700 +0800">
+    <title lang="zh">破密 15</title>
   </programme>
-  <programme channel="RTHK33" start="20260914163900 +0800" stop="20260914170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260914170700 +0800" stop="20260914173900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260914170800 +0800" stop="20260914190000 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260914173900 +0800" stop="20260914190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260914190000 +0800" stop="20260914193200 +0800">
+  <programme channel="RTHK33" start="20260914190000 +0800" stop="20260914193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260914193200 +0800" stop="20260914194000 +0800">
+  <programme channel="RTHK33" start="20260914193500 +0800" stop="20260914194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260914194000 +0800" stop="20260914202600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914194100 +0800" stop="20260914200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260914202600 +0800" stop="20260914211400 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914200800 +0800" stop="20260914205400 +0800">
+    <title lang="zh">生逢其時 12</title>
   </programme>
-  <programme channel="RTHK33" start="20260914211400 +0800" stop="20260914213100 +0800">
+  <programme channel="RTHK33" start="20260914205400 +0800" stop="20260914214300 +0800">
+    <title lang="zh">生逢其時 13</title>
+  </programme>
+  <programme channel="RTHK33" start="20260914214300 +0800" stop="20260914220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260914213100 +0800" stop="20260914220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260914220000 +0800" stop="20260914223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260914223200 +0800" stop="20260914231800 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914223200 +0800" stop="20260914231500 +0800">
+    <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260914231800 +0800" stop="20260915000500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260914231500 +0800" stop="20260915000100 +0800">
+    <title lang="zh">南來北往 37</title>
   </programme>
-  <programme channel="RTHK33" start="20260915000000 +0800" stop="20260915000500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915000000 +0800" stop="20260915000100 +0800">
+    <title lang="zh">南來北往 37</title>
   </programme>
-  <programme channel="RTHK33" start="20260915000500 +0800" stop="20260915003700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260915000100 +0800" stop="20260915004900 +0800">
+    <title lang="zh">南來北往 38</title>
   </programme>
-  <programme channel="RTHK33" start="20260915003700 +0800" stop="20260915012300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915004900 +0800" stop="20260915021000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260915012300 +0800" stop="20260915021100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915021000 +0800" stop="20260915025900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260915021100 +0800" stop="20260915030000 +0800">
-    <title lang="zh">人與自然</title>
-  </programme>
-  <programme channel="RTHK33" start="20260915030000 +0800" stop="20260915034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915025900 +0800" stop="20260915034600 +0800">
+    <title lang="zh">玫瑰的故事 35</title>
   </programme>
   <programme channel="RTHK33" start="20260915034600 +0800" stop="20260915043200 +0800">
-    <title lang="zh">電視劇</title>
+    <title lang="zh">玫瑰的故事 36</title>
   </programme>
   <programme channel="RTHK33" start="20260915043200 +0800" stop="20260915050000 +0800">
     <title lang="zh">今日說法</title>
@@ -4065,25 +3581,25 @@
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260915053000 +0800" stop="20260915060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260915060000 +0800" stop="20260915083200 +0800">
+  <programme channel="RTHK33" start="20260915060000 +0800" stop="20260915083000 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260915083200 +0800" stop="20260915091500 +0800">
+  <programme channel="RTHK33" start="20260915083000 +0800" stop="20260915091200 +0800">
     <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260915091500 +0800" stop="20260915100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915091200 +0800" stop="20260915095800 +0800">
+    <title lang="zh">愛情沒有神話 37</title>
   </programme>
-  <programme channel="RTHK33" start="20260915100100 +0800" stop="20260915104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915095800 +0800" stop="20260915104400 +0800">
+    <title lang="zh">隱身的名字 1</title>
   </programme>
-  <programme channel="RTHK33" start="20260915104700 +0800" stop="20260915113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915104400 +0800" stop="20260915113000 +0800">
+    <title lang="zh">隱身的名字 2</title>
   </programme>
-  <programme channel="RTHK33" start="20260915113300 +0800" stop="20260915120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260915113000 +0800" stop="20260915120000 +0800">
+    <title lang="zh">本草流芳</title>
   </programme>
   <programme channel="RTHK33" start="20260915120000 +0800" stop="20260915123200 +0800">
     <title lang="zh">新聞30分</title>
@@ -4091,77 +3607,71 @@
   <programme channel="RTHK33" start="20260915123200 +0800" stop="20260915130100 +0800">
     <title lang="zh">今日說法</title>
   </programme>
-  <programme channel="RTHK33" start="20260915130100 +0800" stop="20260915133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260915130100 +0800" stop="20260915134700 +0800">
+    <title lang="zh">破密 16</title>
   </programme>
-  <programme channel="RTHK33" start="20260915133300 +0800" stop="20260915141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915134700 +0800" stop="20260915143400 +0800">
+    <title lang="zh">破密 17</title>
   </programme>
-  <programme channel="RTHK33" start="20260915141900 +0800" stop="20260915150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915143400 +0800" stop="20260915152000 +0800">
+    <title lang="zh">破密 18</title>
   </programme>
-  <programme channel="RTHK33" start="20260915150500 +0800" stop="20260915155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915152000 +0800" stop="20260915160800 +0800">
+    <title lang="zh">破密 19</title>
   </programme>
-  <programme channel="RTHK33" start="20260915155100 +0800" stop="20260915163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915160800 +0800" stop="20260915170200 +0800">
+    <title lang="zh">破密 20</title>
   </programme>
-  <programme channel="RTHK33" start="20260915163900 +0800" stop="20260915170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260915170200 +0800" stop="20260915173400 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260915170800 +0800" stop="20260915190000 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260915173400 +0800" stop="20260915190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260915190000 +0800" stop="20260915193200 +0800">
+  <programme channel="RTHK33" start="20260915190000 +0800" stop="20260915193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260915193200 +0800" stop="20260915194000 +0800">
+  <programme channel="RTHK33" start="20260915193500 +0800" stop="20260915194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260915194000 +0800" stop="20260915202600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915194100 +0800" stop="20260915200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260915202600 +0800" stop="20260915211400 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915200800 +0800" stop="20260915205400 +0800">
+    <title lang="zh">生逢其時 14</title>
   </programme>
-  <programme channel="RTHK33" start="20260915211400 +0800" stop="20260915213100 +0800">
+  <programme channel="RTHK33" start="20260915205400 +0800" stop="20260915214300 +0800">
+    <title lang="zh">生逢其時 15</title>
+  </programme>
+  <programme channel="RTHK33" start="20260915214300 +0800" stop="20260915220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260915213100 +0800" stop="20260915220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260915220000 +0800" stop="20260915223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260915223200 +0800" stop="20260915231900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915223200 +0800" stop="20260915231600 +0800">
+    <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260915231900 +0800" stop="20260916000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260915231600 +0800" stop="20260916000200 +0800">
+    <title lang="zh">南來北往 39</title>
   </programme>
-  <programme channel="RTHK33" start="20260916000000 +0800" stop="20260916000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916000000 +0800" stop="20260916000200 +0800">
+    <title lang="zh">南來北往 39</title>
   </programme>
-  <programme channel="RTHK33" start="20260916000700 +0800" stop="20260916003700 +0800">
-    <title lang="zh">中華民族</title>
+  <programme channel="RTHK33" start="20260916000200 +0800" stop="20260916005000 +0800">
+    <title lang="zh">無所畏懼之永不放棄 1</title>
   </programme>
-  <programme channel="RTHK33" start="20260916003700 +0800" stop="20260916010700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260916005000 +0800" stop="20260916021400 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260916010700 +0800" stop="20260916012700 +0800">
-    <title lang="zh">人口</title>
+  <programme channel="RTHK33" start="20260916021400 +0800" stop="20260916025900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260916012700 +0800" stop="20260916021300 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK33" start="20260916021300 +0800" stop="20260916030000 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK33" start="20260916030000 +0800" stop="20260916034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916025900 +0800" stop="20260916034600 +0800">
+    <title lang="zh">玫瑰的故事 37</title>
   </programme>
   <programme channel="RTHK33" start="20260916034600 +0800" stop="20260916043200 +0800">
-    <title lang="zh">電視劇</title>
+    <title lang="zh">玫瑰的故事 38</title>
   </programme>
   <programme channel="RTHK33" start="20260916043200 +0800" stop="20260916050000 +0800">
     <title lang="zh">今日說法</title>
@@ -4170,25 +3680,25 @@
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260916053000 +0800" stop="20260916060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260916060000 +0800" stop="20260916083200 +0800">
+  <programme channel="RTHK33" start="20260916060000 +0800" stop="20260916083000 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260916083200 +0800" stop="20260916091500 +0800">
+  <programme channel="RTHK33" start="20260916083000 +0800" stop="20260916091200 +0800">
     <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260916091500 +0800" stop="20260916100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916091200 +0800" stop="20260916095800 +0800">
+    <title lang="zh">隱身的名字 3</title>
   </programme>
-  <programme channel="RTHK33" start="20260916100100 +0800" stop="20260916104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916095800 +0800" stop="20260916104400 +0800">
+    <title lang="zh">隱身的名字 4</title>
   </programme>
-  <programme channel="RTHK33" start="20260916104700 +0800" stop="20260916113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916104400 +0800" stop="20260916113000 +0800">
+    <title lang="zh">隱身的名字 5</title>
   </programme>
-  <programme channel="RTHK33" start="20260916113300 +0800" stop="20260916120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260916113000 +0800" stop="20260916120000 +0800">
+    <title lang="zh">本草流芳</title>
   </programme>
   <programme channel="RTHK33" start="20260916120000 +0800" stop="20260916123200 +0800">
     <title lang="zh">新聞30分</title>
@@ -4196,74 +3706,71 @@
   <programme channel="RTHK33" start="20260916123200 +0800" stop="20260916130100 +0800">
     <title lang="zh">今日說法</title>
   </programme>
-  <programme channel="RTHK33" start="20260916130100 +0800" stop="20260916133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260916130100 +0800" stop="20260916134800 +0800">
+    <title lang="zh">暗夜與黎明 1</title>
   </programme>
-  <programme channel="RTHK33" start="20260916133300 +0800" stop="20260916141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916134800 +0800" stop="20260916143500 +0800">
+    <title lang="zh">暗夜與黎明 2</title>
   </programme>
-  <programme channel="RTHK33" start="20260916141900 +0800" stop="20260916150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916143500 +0800" stop="20260916152100 +0800">
+    <title lang="zh">暗夜與黎明 3</title>
   </programme>
-  <programme channel="RTHK33" start="20260916150500 +0800" stop="20260916155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916152100 +0800" stop="20260916160900 +0800">
+    <title lang="zh">暗夜與黎明 4</title>
   </programme>
-  <programme channel="RTHK33" start="20260916155100 +0800" stop="20260916163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916160900 +0800" stop="20260916170300 +0800">
+    <title lang="zh">暗夜與黎明 5</title>
   </programme>
-  <programme channel="RTHK33" start="20260916163900 +0800" stop="20260916170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260916170300 +0800" stop="20260916173500 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260916170800 +0800" stop="20260916190000 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260916173500 +0800" stop="20260916190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260916190000 +0800" stop="20260916193200 +0800">
+  <programme channel="RTHK33" start="20260916190000 +0800" stop="20260916193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260916193200 +0800" stop="20260916194000 +0800">
+  <programme channel="RTHK33" start="20260916193500 +0800" stop="20260916194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260916194000 +0800" stop="20260916202600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916194100 +0800" stop="20260916200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260916202600 +0800" stop="20260916211400 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916200800 +0800" stop="20260916205400 +0800">
+    <title lang="zh">生逢其時 16</title>
   </programme>
-  <programme channel="RTHK33" start="20260916211400 +0800" stop="20260916213100 +0800">
+  <programme channel="RTHK33" start="20260916205400 +0800" stop="20260916214300 +0800">
+    <title lang="zh">生逢其時 17</title>
+  </programme>
+  <programme channel="RTHK33" start="20260916214300 +0800" stop="20260916220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260916213100 +0800" stop="20260916220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260916220000 +0800" stop="20260916223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260916223200 +0800" stop="20260916232000 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916223200 +0800" stop="20260916231500 +0800">
+    <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260916232000 +0800" stop="20260917000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260916231500 +0800" stop="20260917000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 2</title>
   </programme>
-  <programme channel="RTHK33" start="20260917000000 +0800" stop="20260917000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917000000 +0800" stop="20260917000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 2</title>
   </programme>
-  <programme channel="RTHK33" start="20260917000700 +0800" stop="20260917003700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260917000100 +0800" stop="20260917004900 +0800">
+    <title lang="zh">無所畏懼之永不放棄 3</title>
   </programme>
-  <programme channel="RTHK33" start="20260917003700 +0800" stop="20260917012300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917004900 +0800" stop="20260917021400 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260917012300 +0800" stop="20260917021100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917021400 +0800" stop="20260917025900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260917021100 +0800" stop="20260917030000 +0800">
-    <title lang="zh">人與自然</title>
-  </programme>
-  <programme channel="RTHK33" start="20260917030000 +0800" stop="20260917034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917025900 +0800" stop="20260917034600 +0800">
+    <title lang="zh">滹沱兒女 1</title>
   </programme>
   <programme channel="RTHK33" start="20260917034600 +0800" stop="20260917043200 +0800">
-    <title lang="zh">電視劇</title>
+    <title lang="zh">滹沱兒女 2</title>
   </programme>
   <programme channel="RTHK33" start="20260917043200 +0800" stop="20260917050000 +0800">
     <title lang="zh">今日說法</title>
@@ -4272,25 +3779,25 @@
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260917053000 +0800" stop="20260917060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260917060000 +0800" stop="20260917083200 +0800">
+  <programme channel="RTHK33" start="20260917060000 +0800" stop="20260917083000 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260917083200 +0800" stop="20260917091500 +0800">
+  <programme channel="RTHK33" start="20260917083000 +0800" stop="20260917091200 +0800">
     <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260917091500 +0800" stop="20260917100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917091200 +0800" stop="20260917095800 +0800">
+    <title lang="zh">隱身的名字 6</title>
   </programme>
-  <programme channel="RTHK33" start="20260917100100 +0800" stop="20260917104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917095800 +0800" stop="20260917104400 +0800">
+    <title lang="zh">隱身的名字 7</title>
   </programme>
-  <programme channel="RTHK33" start="20260917104700 +0800" stop="20260917113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917104400 +0800" stop="20260917113000 +0800">
+    <title lang="zh">隱身的名字 8</title>
   </programme>
-  <programme channel="RTHK33" start="20260917113300 +0800" stop="20260917120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260917113000 +0800" stop="20260917120000 +0800">
+    <title lang="zh">尋古中國</title>
   </programme>
   <programme channel="RTHK33" start="20260917120000 +0800" stop="20260917123200 +0800">
     <title lang="zh">新聞30分</title>
@@ -4298,74 +3805,71 @@
   <programme channel="RTHK33" start="20260917123200 +0800" stop="20260917130100 +0800">
     <title lang="zh">今日說法</title>
   </programme>
-  <programme channel="RTHK33" start="20260917130100 +0800" stop="20260917133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260917130100 +0800" stop="20260917134700 +0800">
+    <title lang="zh">暗夜與黎明 6</title>
   </programme>
-  <programme channel="RTHK33" start="20260917133300 +0800" stop="20260917141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917134700 +0800" stop="20260917143400 +0800">
+    <title lang="zh">暗夜與黎明 7</title>
   </programme>
-  <programme channel="RTHK33" start="20260917141900 +0800" stop="20260917150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917143400 +0800" stop="20260917152000 +0800">
+    <title lang="zh">暗夜與黎明 8</title>
   </programme>
-  <programme channel="RTHK33" start="20260917150500 +0800" stop="20260917155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917152000 +0800" stop="20260917160600 +0800">
+    <title lang="zh">暗夜與黎明 9</title>
   </programme>
-  <programme channel="RTHK33" start="20260917155100 +0800" stop="20260917163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917160600 +0800" stop="20260917170600 +0800">
+    <title lang="zh">暗夜與黎明 10</title>
   </programme>
-  <programme channel="RTHK33" start="20260917163900 +0800" stop="20260917170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260917170600 +0800" stop="20260917173800 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260917170800 +0800" stop="20260917190000 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260917173800 +0800" stop="20260917190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260917190000 +0800" stop="20260917193200 +0800">
+  <programme channel="RTHK33" start="20260917190000 +0800" stop="20260917193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260917193200 +0800" stop="20260917194000 +0800">
+  <programme channel="RTHK33" start="20260917193500 +0800" stop="20260917194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260917194000 +0800" stop="20260917202600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917194100 +0800" stop="20260917200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260917202600 +0800" stop="20260917211400 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917200800 +0800" stop="20260917205400 +0800">
+    <title lang="zh">生逢其時 18</title>
   </programme>
-  <programme channel="RTHK33" start="20260917211400 +0800" stop="20260917213100 +0800">
+  <programme channel="RTHK33" start="20260917205400 +0800" stop="20260917214300 +0800">
+    <title lang="zh">生逢其時 19</title>
+  </programme>
+  <programme channel="RTHK33" start="20260917214300 +0800" stop="20260917220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260917213100 +0800" stop="20260917220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260917220000 +0800" stop="20260917223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260917223200 +0800" stop="20260917232000 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917223200 +0800" stop="20260917231500 +0800">
+    <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260917232000 +0800" stop="20260918000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260917231500 +0800" stop="20260918000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 4</title>
   </programme>
-  <programme channel="RTHK33" start="20260918000000 +0800" stop="20260918000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918000000 +0800" stop="20260918000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 4</title>
   </programme>
-  <programme channel="RTHK33" start="20260918000700 +0800" stop="20260918003700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260918000100 +0800" stop="20260918004900 +0800">
+    <title lang="zh">無所畏懼之永不放棄 5</title>
   </programme>
-  <programme channel="RTHK33" start="20260918003700 +0800" stop="20260918012300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918004900 +0800" stop="20260918021100 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260918012300 +0800" stop="20260918021100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918021100 +0800" stop="20260918025900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260918021100 +0800" stop="20260918030000 +0800">
-    <title lang="zh">人口</title>
-  </programme>
-  <programme channel="RTHK33" start="20260918030000 +0800" stop="20260918034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918025900 +0800" stop="20260918034600 +0800">
+    <title lang="zh">滹沱兒女 3</title>
   </programme>
   <programme channel="RTHK33" start="20260918034600 +0800" stop="20260918043200 +0800">
-    <title lang="zh">電視劇</title>
+    <title lang="zh">滹沱兒女 4</title>
   </programme>
   <programme channel="RTHK33" start="20260918043200 +0800" stop="20260918050000 +0800">
     <title lang="zh">今日說法</title>
@@ -4374,25 +3878,25 @@
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260918053000 +0800" stop="20260918060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260918060000 +0800" stop="20260918083200 +0800">
+  <programme channel="RTHK33" start="20260918060000 +0800" stop="20260918083000 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260918083200 +0800" stop="20260918091500 +0800">
+  <programme channel="RTHK33" start="20260918083000 +0800" stop="20260918091200 +0800">
     <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260918091500 +0800" stop="20260918100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918091200 +0800" stop="20260918095800 +0800">
+    <title lang="zh">隱身的名字 9</title>
   </programme>
-  <programme channel="RTHK33" start="20260918100100 +0800" stop="20260918104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918095800 +0800" stop="20260918104400 +0800">
+    <title lang="zh">隱身的名字 10</title>
   </programme>
-  <programme channel="RTHK33" start="20260918104700 +0800" stop="20260918113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918104400 +0800" stop="20260918113000 +0800">
+    <title lang="zh">隱身的名字 11</title>
   </programme>
-  <programme channel="RTHK33" start="20260918113300 +0800" stop="20260918120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260918113000 +0800" stop="20260918120000 +0800">
+    <title lang="zh">尋古中國</title>
   </programme>
   <programme channel="RTHK33" start="20260918120000 +0800" stop="20260918123200 +0800">
     <title lang="zh">新聞30分</title>
@@ -4400,74 +3904,71 @@
   <programme channel="RTHK33" start="20260918123200 +0800" stop="20260918130100 +0800">
     <title lang="zh">今日說法</title>
   </programme>
-  <programme channel="RTHK33" start="20260918130100 +0800" stop="20260918133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260918130100 +0800" stop="20260918134800 +0800">
+    <title lang="zh">暗夜與黎明 11</title>
   </programme>
-  <programme channel="RTHK33" start="20260918133300 +0800" stop="20260918141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918134800 +0800" stop="20260918143500 +0800">
+    <title lang="zh">暗夜與黎明 12</title>
   </programme>
-  <programme channel="RTHK33" start="20260918141900 +0800" stop="20260918150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918143500 +0800" stop="20260918152100 +0800">
+    <title lang="zh">暗夜與黎明 13</title>
   </programme>
-  <programme channel="RTHK33" start="20260918150500 +0800" stop="20260918155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918152100 +0800" stop="20260918160900 +0800">
+    <title lang="zh">暗夜與黎明 14</title>
   </programme>
-  <programme channel="RTHK33" start="20260918155100 +0800" stop="20260918163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918160900 +0800" stop="20260918170300 +0800">
+    <title lang="zh">暗夜與黎明 15</title>
   </programme>
-  <programme channel="RTHK33" start="20260918163900 +0800" stop="20260918170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260918170300 +0800" stop="20260918173500 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260918170800 +0800" stop="20260918190000 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260918173500 +0800" stop="20260918190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260918190000 +0800" stop="20260918193200 +0800">
+  <programme channel="RTHK33" start="20260918190000 +0800" stop="20260918193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260918193200 +0800" stop="20260918194000 +0800">
+  <programme channel="RTHK33" start="20260918193500 +0800" stop="20260918194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260918194000 +0800" stop="20260918202600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918194100 +0800" stop="20260918200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260918202600 +0800" stop="20260918211400 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918200800 +0800" stop="20260918205400 +0800">
+    <title lang="zh">生逢其時 20</title>
   </programme>
-  <programme channel="RTHK33" start="20260918211400 +0800" stop="20260918213100 +0800">
+  <programme channel="RTHK33" start="20260918205400 +0800" stop="20260918214300 +0800">
+    <title lang="zh">生逢其時 21</title>
+  </programme>
+  <programme channel="RTHK33" start="20260918214300 +0800" stop="20260918220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260918213100 +0800" stop="20260918220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260918220000 +0800" stop="20260918223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260918223200 +0800" stop="20260918232000 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918223200 +0800" stop="20260918231500 +0800">
+    <title lang="zh">生活圈</title>
   </programme>
-  <programme channel="RTHK33" start="20260918232000 +0800" stop="20260919000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260918231500 +0800" stop="20260919000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 6</title>
   </programme>
-  <programme channel="RTHK33" start="20260919000000 +0800" stop="20260919000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919000000 +0800" stop="20260919000100 +0800">
+    <title lang="zh">無所畏懼之永不放棄 6</title>
   </programme>
-  <programme channel="RTHK33" start="20260919000700 +0800" stop="20260919003700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260919000100 +0800" stop="20260919004900 +0800">
+    <title lang="zh">無所畏懼之永不放棄 7</title>
   </programme>
-  <programme channel="RTHK33" start="20260919003700 +0800" stop="20260919012300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919004900 +0800" stop="20260919021400 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260919012300 +0800" stop="20260919021100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919021400 +0800" stop="20260919025900 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260919021100 +0800" stop="20260919030000 +0800">
-    <title lang="zh">人與自然</title>
-  </programme>
-  <programme channel="RTHK33" start="20260919030000 +0800" stop="20260919034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919025900 +0800" stop="20260919034600 +0800">
+    <title lang="zh">滹沱兒女 5</title>
   </programme>
   <programme channel="RTHK33" start="20260919034600 +0800" stop="20260919043200 +0800">
-    <title lang="zh">電視劇</title>
+    <title lang="zh">滹沱兒女 6</title>
   </programme>
   <programme channel="RTHK33" start="20260919043200 +0800" stop="20260919050000 +0800">
     <title lang="zh">今日說法</title>
@@ -4476,400 +3977,172 @@
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260919053000 +0800" stop="20260919060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260919060000 +0800" stop="20260919083200 +0800">
+  <programme channel="RTHK33" start="20260919060000 +0800" stop="20260919083100 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260919083200 +0800" stop="20260919091500 +0800">
-    <title lang="zh">生活圈</title>
+  <programme channel="RTHK33" start="20260919083100 +0800" stop="20260919091700 +0800">
+    <title lang="zh">隱身的名字 12</title>
   </programme>
-  <programme channel="RTHK33" start="20260919091500 +0800" stop="20260919100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919091700 +0800" stop="20260919100300 +0800">
+    <title lang="zh">隱身的名字 13</title>
   </programme>
-  <programme channel="RTHK33" start="20260919100100 +0800" stop="20260919104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919100300 +0800" stop="20260919104900 +0800">
+    <title lang="zh">隱身的名字 14</title>
   </programme>
-  <programme channel="RTHK33" start="20260919104700 +0800" stop="20260919113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919104900 +0800" stop="20260919113500 +0800">
+    <title lang="zh">隱身的名字 15</title>
   </programme>
-  <programme channel="RTHK33" start="20260919113300 +0800" stop="20260919120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260919113500 +0800" stop="20260919120000 +0800">
+    <title lang="zh">傳世古建</title>
   </programme>
   <programme channel="RTHK33" start="20260919120000 +0800" stop="20260919123200 +0800">
     <title lang="zh">新聞30分</title>
   </programme>
-  <programme channel="RTHK33" start="20260919123200 +0800" stop="20260919130100 +0800">
-    <title lang="zh">今日說法</title>
+  <programme channel="RTHK33" start="20260919123200 +0800" stop="20260919130300 +0800">
+    <title lang="zh">農耕探文明</title>
   </programme>
-  <programme channel="RTHK33" start="20260919130100 +0800" stop="20260919133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260919130300 +0800" stop="20260919134900 +0800">
+    <title lang="zh">暗夜與黎明 16</title>
   </programme>
-  <programme channel="RTHK33" start="20260919133300 +0800" stop="20260919141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919134900 +0800" stop="20260919143500 +0800">
+    <title lang="zh">暗夜與黎明 17</title>
   </programme>
-  <programme channel="RTHK33" start="20260919141900 +0800" stop="20260919150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919143500 +0800" stop="20260919152100 +0800">
+    <title lang="zh">暗夜與黎明 18</title>
   </programme>
-  <programme channel="RTHK33" start="20260919150500 +0800" stop="20260919155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919152100 +0800" stop="20260919160700 +0800">
+    <title lang="zh">暗夜與黎明 19</title>
   </programme>
-  <programme channel="RTHK33" start="20260919155100 +0800" stop="20260919163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919160700 +0800" stop="20260919170100 +0800">
+    <title lang="zh">暗夜與黎明 20</title>
   </programme>
-  <programme channel="RTHK33" start="20260919163900 +0800" stop="20260919170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260919170100 +0800" stop="20260919173300 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260919170800 +0800" stop="20260919180800 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260919173300 +0800" stop="20260919190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260919180800 +0800" stop="20260919190000 +0800">
-    <title lang="zh">國際藝苑</title>
-  </programme>
-  <programme channel="RTHK33" start="20260919190000 +0800" stop="20260919193200 +0800">
+  <programme channel="RTHK33" start="20260919190000 +0800" stop="20260919193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260919193200 +0800" stop="20260919194000 +0800">
+  <programme channel="RTHK33" start="20260919193500 +0800" stop="20260919194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260919194000 +0800" stop="20260919202800 +0800">
-    <title lang="zh">特別節目</title>
+  <programme channel="RTHK33" start="20260919194100 +0800" stop="20260919200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260919202800 +0800" stop="20260919211800 +0800">
-    <title lang="zh">特別節目</title>
+  <programme channel="RTHK33" start="20260919200800 +0800" stop="20260919214300 +0800">
+    <title lang="zh">專題節目</title>
   </programme>
-  <programme channel="RTHK33" start="20260919211800 +0800" stop="20260919220000 +0800">
+  <programme channel="RTHK33" start="20260919214300 +0800" stop="20260919220000 +0800">
     <title lang="zh">焦點訪談</title>
   </programme>
   <programme channel="RTHK33" start="20260919220000 +0800" stop="20260919223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260919223200 +0800" stop="20260919232000 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919223200 +0800" stop="20260919231800 +0800">
+    <title lang="zh">開講啦</title>
   </programme>
-  <programme channel="RTHK33" start="20260919232000 +0800" stop="20260920000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260919231800 +0800" stop="20260920000400 +0800">
+    <title lang="zh">無所畏懼之永不放棄 8</title>
   </programme>
-  <programme channel="RTHK33" start="20260920000000 +0800" stop="20260920000700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920000000 +0800" stop="20260920000400 +0800">
+    <title lang="zh">無所畏懼之永不放棄 8</title>
   </programme>
-  <programme channel="RTHK33" start="20260920000700 +0800" stop="20260920003700 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260920000400 +0800" stop="20260920005200 +0800">
+    <title lang="zh">無所畏懼之永不放棄 9</title>
   </programme>
-  <programme channel="RTHK33" start="20260920003700 +0800" stop="20260920012300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920005200 +0800" stop="20260920021900 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260920012300 +0800" stop="20260920021100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920021900 +0800" stop="20260920025700 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260920021100 +0800" stop="20260920030000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260920025700 +0800" stop="20260920034400 +0800">
+    <title lang="zh">滹沱兒女 7</title>
   </programme>
-  <programme channel="RTHK33" start="20260920030000 +0800" stop="20260920034600 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920034400 +0800" stop="20260920043000 +0800">
+    <title lang="zh">滹沱兒女 8</title>
   </programme>
-  <programme channel="RTHK33" start="20260920034600 +0800" stop="20260920043200 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK33" start="20260920043200 +0800" stop="20260920050000 +0800">
-    <title lang="zh">今日說法</title>
+  <programme channel="RTHK33" start="20260920043000 +0800" stop="20260920050000 +0800">
+    <title lang="zh">文脈春秋</title>
   </programme>
   <programme channel="RTHK33" start="20260920050000 +0800" stop="20260920053000 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
   <programme channel="RTHK33" start="20260920053000 +0800" stop="20260920060000 +0800">
-    <title lang="zh">人與自然</title>
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260920060000 +0800" stop="20260920083200 +0800">
+  <programme channel="RTHK33" start="20260920060000 +0800" stop="20260920083100 +0800">
     <title lang="zh">朝聞天下</title>
   </programme>
-  <programme channel="RTHK33" start="20260920083200 +0800" stop="20260920091500 +0800">
-    <title lang="zh">生活圈</title>
+  <programme channel="RTHK33" start="20260920083100 +0800" stop="20260920091700 +0800">
+    <title lang="zh">隱身的名字 16</title>
   </programme>
-  <programme channel="RTHK33" start="20260920091500 +0800" stop="20260920100100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920091700 +0800" stop="20260920100300 +0800">
+    <title lang="zh">隱身的名字 17</title>
   </programme>
-  <programme channel="RTHK33" start="20260920100100 +0800" stop="20260920104700 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920100300 +0800" stop="20260920104900 +0800">
+    <title lang="zh">隱身的名字 18</title>
   </programme>
-  <programme channel="RTHK33" start="20260920104700 +0800" stop="20260920113300 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920104900 +0800" stop="20260920113500 +0800">
+    <title lang="zh">隱身的名字 19</title>
   </programme>
-  <programme channel="RTHK33" start="20260920113300 +0800" stop="20260920120000 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260920113500 +0800" stop="20260920120000 +0800">
+    <title lang="zh">傳世古建</title>
   </programme>
   <programme channel="RTHK33" start="20260920120000 +0800" stop="20260920123200 +0800">
     <title lang="zh">新聞30分</title>
   </programme>
-  <programme channel="RTHK33" start="20260920123200 +0800" stop="20260920130100 +0800">
-    <title lang="zh">今日說法</title>
+  <programme channel="RTHK33" start="20260920123200 +0800" stop="20260920130300 +0800">
+    <title lang="zh">農耕探文明</title>
   </programme>
-  <programme channel="RTHK33" start="20260920130100 +0800" stop="20260920133300 +0800">
-    <title lang="zh">動物世界</title>
+  <programme channel="RTHK33" start="20260920130300 +0800" stop="20260920134900 +0800">
+    <title lang="zh">暗夜與黎明 21</title>
   </programme>
-  <programme channel="RTHK33" start="20260920133300 +0800" stop="20260920141900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920134900 +0800" stop="20260920143500 +0800">
+    <title lang="zh">暗夜與黎明 22</title>
   </programme>
-  <programme channel="RTHK33" start="20260920141900 +0800" stop="20260920150500 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920143500 +0800" stop="20260920152100 +0800">
+    <title lang="zh">暗夜與黎明 23</title>
   </programme>
-  <programme channel="RTHK33" start="20260920150500 +0800" stop="20260920155100 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920152100 +0800" stop="20260920160700 +0800">
+    <title lang="zh">暗夜與黎明 24</title>
   </programme>
-  <programme channel="RTHK33" start="20260920155100 +0800" stop="20260920163900 +0800">
-    <title lang="zh">電視劇</title>
+  <programme channel="RTHK33" start="20260920160700 +0800" stop="20260920165300 +0800">
+    <title lang="zh">暗夜與黎明 25</title>
   </programme>
-  <programme channel="RTHK33" start="20260920163900 +0800" stop="20260920170800 +0800">
-    <title lang="zh">人與自然</title>
+  <programme channel="RTHK33" start="20260920165300 +0800" stop="20260920172500 +0800">
+    <title lang="zh">自然中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260920170800 +0800" stop="20260920180800 +0800">
-    <title lang="zh">第一動畫樂園</title>
+  <programme channel="RTHK33" start="20260920172500 +0800" stop="20260920190000 +0800">
+    <title lang="zh">典籍裡的中國</title>
   </programme>
-  <programme channel="RTHK33" start="20260920180800 +0800" stop="20260920190000 +0800">
-    <title lang="zh">正大綜藝·動物來啦</title>
-  </programme>
-  <programme channel="RTHK33" start="20260920190000 +0800" stop="20260920193100 +0800">
+  <programme channel="RTHK33" start="20260920190000 +0800" stop="20260920193500 +0800">
     <title lang="zh">新聞聯播</title>
   </programme>
-  <programme channel="RTHK33" start="20260920193100 +0800" stop="20260920193900 +0800">
+  <programme channel="RTHK33" start="20260920193500 +0800" stop="20260920194100 +0800">
     <title lang="zh">天氣預報</title>
   </programme>
-  <programme channel="RTHK33" start="20260920193900 +0800" stop="20260920202400 +0800">
-    <title lang="zh">特別節目</title>
+  <programme channel="RTHK33" start="20260920194100 +0800" stop="20260920200800 +0800">
+    <title lang="zh">國家記憶</title>
   </programme>
-  <programme channel="RTHK33" start="20260920202400 +0800" stop="20260920211600 +0800">
-    <title lang="zh">特別節目</title>
+  <programme channel="RTHK33" start="20260920200800 +0800" stop="20260920214300 +0800">
+    <title lang="zh">山水間的家</title>
   </programme>
-  <programme channel="RTHK33" start="20260920211600 +0800" stop="20260920213300 +0800">
+  <programme channel="RTHK33" start="20260920214300 +0800" stop="20260920220000 +0800">
     <title lang="zh">焦點訪談</title>
-  </programme>
-  <programme channel="RTHK33" start="20260920213300 +0800" stop="20260920220000 +0800">
-    <title lang="zh">人與自然</title>
   </programme>
   <programme channel="RTHK33" start="20260920220000 +0800" stop="20260920223200 +0800">
     <title lang="zh">晚間新聞</title>
   </programme>
-  <programme channel="RTHK33" start="20260920223200 +0800" stop="20260920232000 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK33" start="20260920232000 +0800" stop="20260921000700 +0800">
-    <title lang="zh">電視劇</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911000000 +0800" stop="20260911005600 +0800">
-    <title lang="zh">風從東方來5</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911005600 +0800" stop="20260911010000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911010000 +0800" stop="20260911012700 +0800">
-    <title lang="zh">考古學家的神祕武器3</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911012700 +0800" stop="20260911013000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911013000 +0800" stop="20260911015700 +0800">
-    <title lang="zh">勝利9</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911015700 +0800" stop="20260911020000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911020000 +0800" stop="20260911025600 +0800">
-    <title lang="zh">從農場到餐桌（中法季）1/2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911025600 +0800" stop="20260911030000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911030000 +0800" stop="20260911032700 +0800">
-    <title lang="zh">洋夥伴創想記5</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911032700 +0800" stop="20260911033000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911033000 +0800" stop="20260911035700 +0800">
-    <title lang="zh">教育點亮未來：從放牛坡走向求學路/奔跑吧！足球少年</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911035700 +0800" stop="20260911040000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911040000 +0800" stop="20260911045600 +0800">
-    <title lang="zh">歷史照亮未來·南非篇</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911045600 +0800" stop="20260911050000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911050000 +0800" stop="20260911052700 +0800">
-    <title lang="zh">醉美331——吉林篇3</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911052700 +0800" stop="20260911053000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911053000 +0800" stop="20260911055700 +0800">
-    <title lang="zh">茉莉花開2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911055700 +0800" stop="20260911060000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911060000 +0800" stop="20260911065600 +0800">
-    <title lang="zh">黃河之歌1</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911065600 +0800" stop="20260911070000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911070000 +0800" stop="20260911072700 +0800">
-    <title lang="zh">考古學家的神祕武器4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911072700 +0800" stop="20260911073000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911073000 +0800" stop="20260911075700 +0800">
-    <title lang="zh">勝利10</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911075700 +0800" stop="20260911080000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911080000 +0800" stop="20260911085600 +0800">
-    <title lang="zh">從農場到餐桌（中法季）3/4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911085600 +0800" stop="20260911090000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911090000 +0800" stop="20260911092700 +0800">
-    <title lang="zh">活力中國·我是機長</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911092700 +0800" stop="20260911093000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911093000 +0800" stop="20260911095700 +0800">
-    <title lang="zh">自從有了你1/中國微名片第二季8/哈爾濱—爾濱—濱子2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911095700 +0800" stop="20260911100000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911100000 +0800" stop="20260911105600 +0800">
-    <title lang="zh">歷史照亮未來·南非篇</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911105600 +0800" stop="20260911110000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911110000 +0800" stop="20260911112700 +0800">
-    <title lang="zh">醉美331——吉林篇3</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911112700 +0800" stop="20260911113000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911113000 +0800" stop="20260911115700 +0800">
-    <title lang="zh">茉莉花開2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911115700 +0800" stop="20260911120000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911120000 +0800" stop="20260911125600 +0800">
-    <title lang="zh">黃河之歌1</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911125600 +0800" stop="20260911130000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911130000 +0800" stop="20260911132700 +0800">
-    <title lang="zh">考古學家的神祕武器4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911132700 +0800" stop="20260911133000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911133000 +0800" stop="20260911135700 +0800">
-    <title lang="zh">勝利10</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911135700 +0800" stop="20260911140000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911140000 +0800" stop="20260911145600 +0800">
-    <title lang="zh">從農場到餐桌（中法季）3/4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911145600 +0800" stop="20260911150000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911150000 +0800" stop="20260911152700 +0800">
-    <title lang="zh">活力中國·我是機長</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911152700 +0800" stop="20260911153000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911153000 +0800" stop="20260911155700 +0800">
-    <title lang="zh">自從有了你1/中國微名片第二季8/哈爾濱—爾濱—濱子2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911155700 +0800" stop="20260911160000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911160000 +0800" stop="20260911165600 +0800">
-    <title lang="zh">歷史照亮未來·南非篇</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911165600 +0800" stop="20260911170000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911170000 +0800" stop="20260911172700 +0800">
-    <title lang="zh">醉美331——吉林篇3</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911172700 +0800" stop="20260911173000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911173000 +0800" stop="20260911175700 +0800">
-    <title lang="zh">茉莉花開2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911175700 +0800" stop="20260911180000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911180000 +0800" stop="20260911185600 +0800">
-    <title lang="zh">黃河之歌1</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911185600 +0800" stop="20260911190000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911190000 +0800" stop="20260911192700 +0800">
-    <title lang="zh">考古學家的神祕武器4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911192700 +0800" stop="20260911193000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911193000 +0800" stop="20260911195700 +0800">
-    <title lang="zh">勝利10</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911195700 +0800" stop="20260911200000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911200000 +0800" stop="20260911205600 +0800">
-    <title lang="zh">從農場到餐桌（中法季）3/4</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911205600 +0800" stop="20260911210000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911210000 +0800" stop="20260911212700 +0800">
-    <title lang="zh">活力中國·我是機長</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911212700 +0800" stop="20260911213000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911213000 +0800" stop="20260911215700 +0800">
-    <title lang="zh">自從有了你1/中國微名片第二季8/哈爾濱—爾濱—濱子2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911215700 +0800" stop="20260911220000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911220000 +0800" stop="20260911225600 +0800">
-    <title lang="zh">歷史照亮未來·南非篇</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911225600 +0800" stop="20260911230000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911230000 +0800" stop="20260911232700 +0800">
-    <title lang="zh">醉美331——吉林篇3</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911232700 +0800" stop="20260911233000 +0800">
-    <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911233000 +0800" stop="20260911235700 +0800">
-    <title lang="zh">茉莉花開2</title>
-  </programme>
-  <programme channel="RTHK34" start="20260911235700 +0800" stop="20260912000000 +0800">
-    <title lang="zh">頻道導視(英)</title>
+  <programme channel="RTHK33" start="20260920223200 +0800" stop="20260920231800 +0800">
+    <title lang="zh">開講啦</title>
+  </programme>
+  <programme channel="RTHK33" start="20260920231800 +0800" stop="20260921000400 +0800">
+    <title lang="zh">無所畏懼之永不放棄 10</title>
   </programme>
   <programme channel="RTHK34" start="20260912000000 +0800" stop="20260912005600 +0800">
     <title lang="zh">黃河之歌1</title>
@@ -6682,141 +5955,6 @@
   </programme>
   <programme channel="RTHK34" start="20260920235600 +0800" stop="20260921000000 +0800">
     <title lang="zh">頻道導視(英)</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911000000 +0800" stop="20260911010000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911010000 +0800" stop="20260911020000 +0800">
-    <title lang="zh">Africa Live</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911020000 +0800" stop="20260911030000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911030000 +0800" stop="20260911033000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911033000 +0800" stop="20260911040000 +0800">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911040000 +0800" stop="20260911043000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911043000 +0800" stop="20260911050000 +0800">
-    <title lang="zh">Dialogue</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911050000 +0800" stop="20260911053000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911053000 +0800" stop="20260911060000 +0800">
-    <title lang="zh">The Hub With Wang Guan</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911060000 +0800" stop="20260911063000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911063000 +0800" stop="20260911070000 +0800">
-    <title lang="zh">Rediscovering China</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911070000 +0800" stop="20260911073000 +0800">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911073000 +0800" stop="20260911080000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911080000 +0800" stop="20260911090000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911090000 +0800" stop="20260911093000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911093000 +0800" stop="20260911100000 +0800">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911100000 +0800" stop="20260911103000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911103000 +0800" stop="20260911110000 +0800">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911110000 +0800" stop="20260911111500 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911111500 +0800" stop="20260911113000 +0800">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911113000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911120000 +0800" stop="20260911130000 +0800">
-    <title lang="zh">Global Watch</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911130000 +0800" stop="20260911131500 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911131500 +0800" stop="20260911133000 +0800">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911133000 +0800" stop="20260911140000 +0800">
-    <title lang="zh">Assignment Asia</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911140000 +0800" stop="20260911143000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911143000 +0800" stop="20260911150000 +0800">
-    <title lang="zh">The Heat</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911150000 +0800" stop="20260911153000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911153000 +0800" stop="20260911160000 +0800">
-    <title lang="zh">Sports Scene</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911160000 +0800" stop="20260911161500 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911161500 +0800" stop="20260911170000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911170000 +0800" stop="20260911173000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911173000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">The Vibe</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911180000 +0800" stop="20260911181500 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911181500 +0800" stop="20260911190000 +0800">
-    <title lang="zh">Africa Live</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911190000 +0800" stop="20260911193000 +0800">
-    <title lang="zh">Asia Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911193000 +0800" stop="20260911200000 +0800">
-    <title lang="zh">Dialogue</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911200000 +0800" stop="20260911201500 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911201500 +0800" stop="20260911210000 +0800">
-    <title lang="zh">China 24</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911210000 +0800" stop="20260911213000 +0800">
-    <title lang="zh">Global Business</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911213000 +0800" stop="20260911220000 +0800">
-    <title lang="zh">The Point with Liu Xin</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911220000 +0800" stop="20260911223000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911223000 +0800" stop="20260911230000 +0800">
-    <title lang="zh">World Insight with Tian Wei</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911230000 +0800" stop="20260911233000 +0800">
-    <title lang="zh">The World Today</title>
-  </programme>
-  <programme channel="RTHK35" start="20260911233000 +0800" stop="20260912000000 +0800">
-    <title lang="zh">The Vibe</title>
   </programme>
   <programme channel="RTHK35" start="20260912000000 +0800" stop="20260912010000 +0800">
     <title lang="zh">Global Business</title>

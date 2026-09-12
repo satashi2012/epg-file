@@ -9,93 +9,6 @@
   <channel id="HOY 78">
     <display-name lang="zh">HOY 78</display-name>
   </channel>
-  <programme channel="HOY 76" start="20260911020000 +0800" stop="20260911024000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911024000 +0800" stop="20260911044500 +0800">
-    <title lang="zh">FIBA世界盃女子籃球賽半準決賽-澳洲 對 西班牙</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911044500 +0800" stop="20260911050000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911050000 +0800" stop="20260911060000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911060000 +0800" stop="20260911070000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911070000 +0800" stop="20260911080000 +0800">
-    <title lang="zh">CGTN 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911080000 +0800" stop="20260911082500 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911082500 +0800" stop="20260911103000 +0800">
-    <title lang="zh">南美自由盃半準決賽首回合-迪華利獨立隊 對 法林明高</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911103000 +0800" stop="20260911110000 +0800">
-    <title lang="zh">奧利和朋友們 第8季</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911110000 +0800" stop="20260911113000 +0800">
-    <title lang="zh">跟隨Haslinda Amin一起探索動量</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911113000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">量子行銷</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911120000 +0800" stop="20260911130000 +0800">
-    <title lang="zh">鑊氣新傳</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911130000 +0800" stop="20260911140000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911140000 +0800" stop="20260911150000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911150000 +0800" stop="20260911153000 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911153000 +0800" stop="20260911160000 +0800">
-    <title lang="zh">阿聯酋職業足球聯賽雜誌</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911160000 +0800" stop="20260911163000 +0800">
-    <title lang="zh">小恐龍可可奈 第1季</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911163000 +0800" stop="20260911170000 +0800">
-    <title lang="zh">夏洛克·亞克：動物園偵探</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911170000 +0800" stop="20260911173000 +0800">
-    <title lang="zh">寶拉與朋友們 第1季</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911173000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">奧利和朋友們 第8季</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911180000 +0800" stop="20260911185500 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911185500 +0800" stop="20260911194500 +0800">
-    <title lang="zh">泰國甲組足球聯賽-武里南聯 對 清萊聯</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911194500 +0800" stop="20260911200000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911200000 +0800" stop="20260911205500 +0800">
-    <title lang="zh">泰國甲組足球聯賽-武里南聯 對 清萊聯</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911205500 +0800" stop="20260911230000 +0800">
-    <title lang="zh">FIFA U-20 世界盃女子足球賽-英格蘭 對 巴西</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911230000 +0800" stop="20260911231500 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911231500 +0800" stop="20260911233000 +0800">
-    <title lang="zh">Green Touch</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911233000 +0800" stop="20260911235500 +0800">
-    <title lang="zh">Bloomberg 時段</title>
-  </programme>
-  <programme channel="HOY 76" start="20260911235500 +0800" stop="20260912020000 +0800">
-    <title lang="zh">FIFA U-20 世界盃女子足球賽-阿根廷 對  墨西哥</title>
-  </programme>
   <programme channel="HOY 76" start="20260912020000 +0800" stop="20260912030000 +0800">
     <title lang="zh">Bloomberg 時段</title>
   </programme>
@@ -175,10 +88,10 @@
     <title lang="zh">FIFA U-20 世界盃女子足球賽-加納 對 法國</title>
   </programme>
   <programme channel="HOY 76" start="20260913015500 +0800" stop="20260913040000 +0800">
-    <title lang="zh">FIBA世界盃女子籃球賽準決賽-</title>
+    <title lang="zh">FIBA世界盃女子籃球賽準決賽-西班牙 對 美國</title>
   </programme>
   <programme channel="HOY 76" start="20260913040000 +0800" stop="20260913060000 +0800">
-    <title lang="zh">FIBA世界盃女子籃球賽準決賽-</title>
+    <title lang="zh">FIBA世界盃女子籃球賽準決賽-法國 對 德國</title>
   </programme>
   <programme channel="HOY 76" start="20260913060000 +0800" stop="20260913070000 +0800">
     <title lang="zh">Bloomberg 時段</title>
@@ -342,14 +255,14 @@
   <programme channel="HOY 76" start="20260914214000 +0800" stop="20260914234500 +0800">
     <title lang="zh">亞洲聯賽冠軍盃精英聯賽-尼夫治 對 空軍體育會</title>
   </programme>
-  <programme channel="HOY 76" start="20260914234500 +0800" stop="20260914235500 +0800">
-    <title lang="zh">Green Touch</title>
-  </programme>
-  <programme channel="HOY 76" start="20260914235500 +0800" stop="20260915020000 +0800">
-    <title lang="zh">亞洲聯賽冠軍盃精英聯賽-艾沙瑪 對 伊蒂哈德</title>
-  </programme>
-  <programme channel="HOY 76" start="20260915020000 +0800" stop="20260915030000 +0800">
+  <programme channel="HOY 76" start="20260914234500 +0800" stop="20260915000000 +0800">
     <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme channel="HOY 76" start="20260915000000 +0800" stop="20260915005500 +0800">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme channel="HOY 76" start="20260915005500 +0800" stop="20260915030000 +0800">
+    <title lang="zh">瑞典超級足球聯賽-天狼星 對 迪加科斯</title>
   </programme>
   <programme channel="HOY 76" start="20260915030000 +0800" stop="20260915040000 +0800">
     <title lang="zh">Bloomberg 時段</title>
@@ -657,1103 +570,1001 @@
   <programme channel="HOY 76" start="20260918231500 +0800" stop="20260918233000 +0800">
     <title lang="zh">Green Touch</title>
   </programme>
-  <programme channel="HOY 77" start="20260911001500 +0800" stop="20260911004500 +0800">
-    <title lang="zh">獨家旅行團</title>
+  <programme channel="HOY 76" start="20260918233000 +0800" stop="20260919000000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911004500 +0800" stop="20260911014500 +0800">
-    <title lang="zh">伍姑娘真識食</title>
+  <programme channel="HOY 76" start="20260919000000 +0800" stop="20260919010000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911014500 +0800" stop="20260911031500 +0800">
-    <title lang="zh">HOY 枱啦</title>
+  <programme channel="HOY 76" start="20260919010000 +0800" stop="20260919013000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911031500 +0800" stop="20260911060000 +0800">
-    <title lang="zh">魚樂無限</title>
+  <programme channel="HOY 76" start="20260919013000 +0800" stop="20260919020000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911060000 +0800" stop="20260911070000 +0800">
-    <title lang="zh">田耕紀 第20集</title>
+  <programme channel="HOY 76" start="20260919020000 +0800" stop="20260919030000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911070000 +0800" stop="20260911073000 +0800">
-    <title lang="zh">煮題COOK</title>
+  <programme channel="HOY 76" start="20260919030000 +0800" stop="20260919040000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911073000 +0800" stop="20260911075500 +0800">
-    <title lang="zh">快閃．泰日韓</title>
+  <programme channel="HOY 76" start="20260919040000 +0800" stop="20260919050000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911075500 +0800" stop="20260911080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+  <programme channel="HOY 76" start="20260919050000 +0800" stop="20260919060000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911080000 +0800" stop="20260911090000 +0800">
-    <title lang="zh">黑金風暴 第28集</title>
+  <programme channel="HOY 76" start="20260919060000 +0800" stop="20260919070000 +0800">
+    <title lang="zh">Bloomberg 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911090000 +0800" stop="20260911093000 +0800">
-    <title lang="zh">香港必食40道菜</title>
+  <programme channel="HOY 76" start="20260919070000 +0800" stop="20260919080000 +0800">
+    <title lang="zh">CGTN 時段</title>
   </programme>
-  <programme channel="HOY 77" start="20260911093000 +0800" stop="20260911100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+  <programme channel="HOY 76" start="20260919080000 +0800" stop="20260919081000 +0800">
+    <title lang="zh">Green Touch</title>
   </programme>
-  <programme channel="HOY 77" start="20260911100000 +0800" stop="20260911103000 +0800">
-    <title lang="zh">女遊大阪之御堂筋線</title>
+  <programme channel="HOY 76" start="20260919081000 +0800" stop="20260919101500 +0800">
+    <title lang="zh">阿根廷甲組足球聯賽-競賽會 對 沙米恩圖</title>
   </programme>
-  <programme channel="HOY 77" start="20260911103000 +0800" stop="20260911110000 +0800">
-    <title lang="zh">遊走全世界</title>
+  <programme channel="HOY 76" start="20260919101500 +0800" stop="20260919103000 +0800">
+    <title lang="zh">Green Touch</title>
   </programme>
-  <programme channel="HOY 77" start="20260911110000 +0800" stop="20260911113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+  <programme channel="HOY 76" start="20260919103000 +0800" stop="20260919110000 +0800">
+    <title lang="zh">奧利和朋友們 第8季</title>
   </programme>
-  <programme channel="HOY 77" start="20260911113000 +0800" stop="20260911123000 +0800">
-    <title lang="zh">田耕紀 第21集</title>
+  <programme channel="HOY 76" start="20260919110000 +0800" stop="20260919113000 +0800">
+    <title lang="zh">安博士的秘密生活</title>
   </programme>
-  <programme channel="HOY 77" start="20260911123000 +0800" stop="20260911125500 +0800">
-    <title lang="zh">午間新聞</title>
+  <programme channel="HOY 76" start="20260919113000 +0800" stop="20260919120000 +0800">
+    <title lang="zh">安博士的秘密生活</title>
   </programme>
-  <programme channel="HOY 77" start="20260911125500 +0800" stop="20260911130000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+  <programme channel="HOY 76" start="20260919120000 +0800" stop="20260919130000 +0800">
+    <title lang="zh">洪堡海流</title>
   </programme>
-  <programme channel="HOY 77" start="20260911130000 +0800" stop="20260911133000 +0800">
-    <title lang="zh">一線搜查</title>
+  <programme channel="HOY 76" start="20260919130000 +0800" stop="20260919140000 +0800">
+    <title lang="zh">體育360</title>
   </programme>
-  <programme channel="HOY 77" start="20260911133000 +0800" stop="20260911140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+  <programme channel="HOY 76" start="20260919140000 +0800" stop="20260919150000 +0800">
+    <title lang="zh">FashionTV</title>
   </programme>
-  <programme channel="HOY 77" start="20260911140000 +0800" stop="20260911143000 +0800">
-    <title lang="zh">健康關注組</title>
+  <programme channel="HOY 76" start="20260919150000 +0800" stop="20260919160000 +0800">
+    <title lang="zh">行動起來</title>
   </programme>
-  <programme channel="HOY 77" start="20260911143000 +0800" stop="20260911160000 +0800">
-    <title lang="zh">HOY 枱啦</title>
+  <programme channel="HOY 76" start="20260919160000 +0800" stop="20260919163000 +0800">
+    <title lang="zh">小恐龍可可奈 第2季</title>
   </programme>
-  <programme channel="HOY 77" start="20260911160000 +0800" stop="20260911163000 +0800">
-    <title lang="zh">煮題COOK</title>
+  <programme channel="HOY 76" start="20260919163000 +0800" stop="20260919170000 +0800">
+    <title lang="zh">夏洛克·亞克：動物園偵探</title>
   </programme>
-  <programme channel="HOY 77" start="20260911163000 +0800" stop="20260911170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+  <programme channel="HOY 76" start="20260919170000 +0800" stop="20260919173000 +0800">
+    <title lang="zh">寶拉與朋友們 第2季</title>
   </programme>
-  <programme channel="HOY 77" start="20260911170000 +0800" stop="20260911173000 +0800">
-    <title lang="zh">藍精靈</title>
+  <programme channel="HOY 76" start="20260919173000 +0800" stop="20260919180000 +0800">
+    <title lang="zh">奧利和朋友們 第8季</title>
   </programme>
-  <programme channel="HOY 77" start="20260911173000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">神勇小白鼠</title>
+  <programme channel="HOY 76" start="20260919180000 +0800" stop="20260919185500 +0800">
+    <title lang="zh">體育360</title>
   </programme>
-  <programme channel="HOY 77" start="20260911180000 +0800" stop="20260911183000 +0800">
-    <title lang="zh">江湖菜館</title>
+  <programme channel="HOY 76" start="20260919185500 +0800" stop="20260919205500 +0800">
+    <title lang="zh">泰國甲組足球聯賽-拉西沙萊聯 對 南奔勇士</title>
   </programme>
-  <programme channel="HOY 77" start="20260911183000 +0800" stop="20260911190000 +0800">
-    <title lang="zh">香港必食40道菜</title>
+  <programme channel="HOY 76" start="20260919205500 +0800" stop="20260919214500 +0800">
+    <title lang="zh">FIFA U-20 世界盃女子足球賽半準決賽</title>
   </programme>
-  <programme channel="HOY 77" start="20260911190000 +0800" stop="20260911195000 +0800">
-    <title lang="zh">7點直播室</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911195000 +0800" stop="20260911200000 +0800">
-    <title lang="zh">28Hse 搵樓App 特約 : 每日樓市</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911200000 +0800" stop="20260911202500 +0800">
-    <title lang="zh">一線搜查</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911202500 +0800" stop="20260911203000 +0800">
-    <title lang="zh">HOY AI 天氣預報</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911203000 +0800" stop="20260911205500 +0800">
-    <title lang="zh">健康關注組</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911205500 +0800" stop="20260911210000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911210000 +0800" stop="20260911212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911212500 +0800" stop="20260911213000 +0800">
-    <title lang="zh">亞運 919</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911213000 +0800" stop="20260911215500 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911215500 +0800" stop="20260911220000 +0800">
-    <title lang="zh">HOY AI 天氣預報</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911220000 +0800" stop="20260911223000 +0800">
-    <title lang="zh">遊走全世界</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911223000 +0800" stop="20260911230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
-  </programme>
-  <programme channel="HOY 77" start="20260911230000 +0800" stop="20260911233000 +0800">
+  <programme channel="HOY 76" start="20260919214500 +0800" stop="20260919220000 +0800">
     <title lang="zh">有線新聞</title>
   </programme>
-  <programme channel="HOY 77" start="20260911233000 +0800" stop="20260911234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+  <programme channel="HOY 76" start="20260919220000 +0800" stop="20260919230000 +0800">
+    <title lang="zh">FIFA U-20 世界盃女子足球賽半準決賽</title>
   </programme>
-  <programme channel="HOY 77" start="20260911234500 +0800" stop="20260912004500 +0800">
-    <title lang="zh">晚安晚安</title>
+  <programme channel="HOY 76" start="20260919230000 +0800" stop="20260919231500 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 76" start="20260919231500 +0800" stop="20260919233000 +0800">
+    <title lang="zh">Green Touch</title>
   </programme>
   <programme channel="HOY 77" start="20260912004500 +0800" stop="20260912005500 +0800">
-    <title lang="zh">發明王</title>
+    <title lang="zh">зҷјжҳҺзҺӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260912005500 +0800" stop="20260912030000 +0800">
-    <title lang="zh">瑞典超級足球聯賽 - 赫根 對 米贊比</title>
+    <title lang="zh">з‘һе…ёи¶…зҙҡи¶ізҗғиҒҜиіҪ - иө«ж № е°Қ зұіиҙҠжҜ”</title>
   </programme>
   <programme channel="HOY 77" start="20260912030000 +0800" stop="20260912031500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260912031500 +0800" stop="20260912060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260912060000 +0800" stop="20260912070000 +0800">
-    <title lang="zh">道地生豆乳特約 : 健康原因講多D</title>
+    <title lang="zh">йҒ“ең°з”ҹиұҶд№ізү№зҙ„ : еҒҘеә·еҺҹеӣ и¬ӣеӨҡD</title>
   </programme>
   <programme channel="HOY 77" start="20260912070000 +0800" stop="20260912073000 +0800">
-    <title lang="zh">共享滋味</title>
+    <title lang="zh">е…ұдә«ж»Ӣе‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260912073000 +0800" stop="20260912075500 +0800">
-    <title lang="zh">下一站，前海—港人北上創業紀事</title>
+    <title lang="zh">дёӢдёҖз«ҷпјҢеүҚжө·вҖ”жёҜдәәеҢ—дёҠеүөжҘӯзҙҖдәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260912075500 +0800" stop="20260912080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260912080000 +0800" stop="20260912090000 +0800">
-    <title lang="zh">禁區地帶</title>
+    <title lang="zh">зҰҒеҚҖең°её¶</title>
   </programme>
   <programme channel="HOY 77" start="20260912090000 +0800" stop="20260912100000 +0800">
-    <title lang="zh">執屋達人</title>
+    <title lang="zh">еҹ·еұӢйҒ”дәә</title>
   </programme>
   <programme channel="HOY 77" start="20260912100000 +0800" stop="20260912103000 +0800">
-    <title lang="zh">江湖菜館</title>
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
   <programme channel="HOY 77" start="20260912103000 +0800" stop="20260912110000 +0800">
-    <title lang="zh">四處首羅</title>
+    <title lang="zh">еӣӣиҷ•йҰ–зҫ…</title>
   </programme>
   <programme channel="HOY 77" start="20260912110000 +0800" stop="20260912113000 +0800">
-    <title lang="zh">因乜事周圍遊</title>
+    <title lang="zh">еӣ д№ңдәӢе‘ЁеңҚйҒҠ</title>
   </programme>
   <programme channel="HOY 77" start="20260912113000 +0800" stop="20260912123000 +0800">
-    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <title lang="zh">з«ӢйӮҰжҠ—з”ІйҶӣж·Ёе‘іе…’з«ҘжјҶзі»еҲ—зү№зҙ„ : з©әй–“ж”№йҖ зҺӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260912123000 +0800" stop="20260912125500 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260912125500 +0800" stop="20260912130500 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260912130500 +0800" stop="20260912133000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260912133000 +0800" stop="20260912140000 +0800">
-    <title lang="zh">一流料理人</title>
+    <title lang="zh">дёҖжөҒж–ҷзҗҶдәә</title>
   </programme>
   <programme channel="HOY 77" start="20260912140000 +0800" stop="20260912150000 +0800">
-    <title lang="zh">禁區地帶</title>
+    <title lang="zh">зҰҒеҚҖең°её¶</title>
   </programme>
   <programme channel="HOY 77" start="20260912150000 +0800" stop="20260912153000 +0800">
-    <title lang="zh">嘻哈馬場</title>
+    <title lang="zh">еҳ»е“ҲйҰ¬е ҙ</title>
   </programme>
   <programme channel="HOY 77" start="20260912153000 +0800" stop="20260912160000 +0800">
-    <title lang="zh">數碼生活斷捨離</title>
+    <title lang="zh">ж•ёзўјз”ҹжҙ»ж–·жҚЁйӣў</title>
   </programme>
   <programme channel="HOY 77" start="20260912160000 +0800" stop="20260912163000 +0800">
-    <title lang="zh">汪汪隊立大功</title>
+    <title lang="zh">жұӘжұӘйҡҠз«ӢеӨ§еҠҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260912163000 +0800" stop="20260912170000 +0800">
-    <title lang="zh">小怪獸阿蒙</title>
+    <title lang="zh">е°ҸжҖӘзҚёйҳҝи’ҷ</title>
   </programme>
   <programme channel="HOY 77" start="20260912170000 +0800" stop="20260912173000 +0800">
-    <title lang="zh">亞洲麵包地圖</title>
+    <title lang="zh">дәһжҙІйәөеҢ…ең°ең–</title>
   </programme>
   <programme channel="HOY 77" start="20260912173000 +0800" stop="20260912180000 +0800">
-    <title lang="zh">3D 國度</title>
+    <title lang="zh">3D еңӢеәҰ</title>
   </programme>
   <programme channel="HOY 77" start="20260912180000 +0800" stop="20260912183000 +0800">
-    <title lang="zh">開門七件事</title>
+    <title lang="zh">й–Ӣй–Җдёғд»¶дәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260912183000 +0800" stop="20260912190000 +0800">
-    <title lang="zh">下一站，前海—港人北上創業紀事</title>
+    <title lang="zh">дёӢдёҖз«ҷпјҢеүҚжө·вҖ”жёҜдәәеҢ—дёҠеүөжҘӯзҙҖдәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260912190000 +0800" stop="20260912193000 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260912193000 +0800" stop="20260912200000 +0800">
-    <title lang="zh">列車人生</title>
+    <title lang="zh">еҲ—и»Ҡдәәз”ҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260912200000 +0800" stop="20260912203000 +0800">
-    <title lang="zh">香港潮屬社團總會慈善基金呈獻 : 盂蘭「盛」會全接觸 2</title>
+    <title lang="zh">йҰҷжёҜжҪ®еұ¬зӨҫеңҳзёҪжңғж…Ҳе–„еҹәйҮ‘е‘ҲзҚ» : зӣӮиҳӯгҖҢзӣӣгҖҚжңғе…ЁжҺҘи§ё 2</title>
   </programme>
   <programme channel="HOY 77" start="20260912203000 +0800" stop="20260912213000 +0800">
-    <title lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</title>
+    <title lang="zh">йҒ“ең°иңӮиңңз¶ иҢ¶зү№зҙ„ : еұұж—®ж—ҜзқҮжЁ“еңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260912213000 +0800" stop="20260912220000 +0800">
-    <title lang="zh">運動關注組</title>
+    <title lang="zh">йҒӢеӢ•й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260912220000 +0800" stop="20260912223000 +0800">
-    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</title>
+    <title lang="zh">з«ӢйӮҰжҠ—з”ІйҶӣж·Ёе‘іе…’з«ҘжјҶзі»еҲ—зү№зҙ„ : йҮ‘зүҢйЈҹзӣё</title>
   </programme>
   <programme channel="HOY 77" start="20260912223000 +0800" stop="20260912230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運超前放送</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢи¶…еүҚж”ҫйҖҒ</title>
   </programme>
   <programme channel="HOY 77" start="20260912230000 +0800" stop="20260912233000 +0800">
-    <title lang="zh">HOY娛樂一周</title>
+    <title lang="zh">HOYеЁӣжЁӮдёҖе‘Ё</title>
   </programme>
   <programme channel="HOY 77" start="20260912233000 +0800" stop="20260913000000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260913000000 +0800" stop="20260913003000 +0800">
-    <title lang="zh">一流料理人</title>
+    <title lang="zh">дёҖжөҒж–ҷзҗҶдәә</title>
   </programme>
   <programme channel="HOY 77" start="20260913003000 +0800" stop="20260913010000 +0800">
-    <title lang="zh">因乜事周圍遊</title>
+    <title lang="zh">еӣ д№ңдәӢе‘ЁеңҚйҒҠ</title>
   </programme>
   <programme channel="HOY 77" start="20260913010000 +0800" stop="20260913013000 +0800">
-    <title lang="zh">見招拆招風水局之新．裝修佈局</title>
+    <title lang="zh">иҰӢжӢӣжӢҶжӢӣйўЁж°ҙеұҖд№Ӣж–°пјҺиЈқдҝ®дҪҲеұҖ</title>
   </programme>
   <programme channel="HOY 77" start="20260913013000 +0800" stop="20260913020000 +0800">
-    <title lang="zh">四處首羅</title>
+    <title lang="zh">еӣӣиҷ•йҰ–зҫ…</title>
   </programme>
   <programme channel="HOY 77" start="20260913020000 +0800" stop="20260913023000 +0800">
-    <title lang="zh">下一站，前海—港人北上創業紀事</title>
+    <title lang="zh">дёӢдёҖз«ҷпјҢеүҚжө·вҖ”жёҜдәәеҢ—дёҠеүөжҘӯзҙҖдәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260913023000 +0800" stop="20260913030000 +0800">
-    <title lang="zh">開門七件事</title>
+    <title lang="zh">й–Ӣй–Җдёғд»¶дәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260913030000 +0800" stop="20260913060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260913060000 +0800" stop="20260913070000 +0800">
-    <title lang="zh">執屋達人</title>
+    <title lang="zh">еҹ·еұӢйҒ”дәә</title>
   </programme>
   <programme channel="HOY 77" start="20260913070000 +0800" stop="20260913073000 +0800">
-    <title lang="zh">亞洲麵包地圖</title>
+    <title lang="zh">дәһжҙІйәөеҢ…ең°ең–</title>
   </programme>
   <programme channel="HOY 77" start="20260913073000 +0800" stop="20260913075500 +0800">
-    <title lang="zh">3D 國度</title>
+    <title lang="zh">3D еңӢеәҰ</title>
   </programme>
   <programme channel="HOY 77" start="20260913075500 +0800" stop="20260913080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260913080000 +0800" stop="20260913090000 +0800">
-    <title lang="zh">香料貿易之路</title>
+    <title lang="zh">йҰҷж–ҷиІҝжҳ“д№Ӣи·Ҝ</title>
   </programme>
   <programme channel="HOY 77" start="20260913090000 +0800" stop="20260913100000 +0800">
-    <title lang="zh">道地生豆乳特約 : 健康原因講多D</title>
+    <title lang="zh">йҒ“ең°з”ҹиұҶд№ізү№зҙ„ : еҒҘеә·еҺҹеӣ и¬ӣеӨҡD</title>
   </programme>
   <programme channel="HOY 77" start="20260913100000 +0800" stop="20260913103000 +0800">
-    <title lang="zh">列車人生</title>
+    <title lang="zh">еҲ—и»Ҡдәәз”ҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260913103000 +0800" stop="20260913110000 +0800">
-    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</title>
+    <title lang="zh">з«ӢйӮҰжҠ—з”ІйҶӣж·Ёе‘іе…’з«ҘжјҶзі»еҲ—зү№зҙ„ : йҮ‘зүҢйЈҹзӣё</title>
   </programme>
   <programme channel="HOY 77" start="20260913110000 +0800" stop="20260913120000 +0800">
-    <title lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</title>
+    <title lang="zh">йҒ“ең°иңӮиңңз¶ иҢ¶зү№зҙ„ : еұұж—®ж—ҜзқҮжЁ“еңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260913120000 +0800" stop="20260913123000 +0800">
-    <title lang="zh">HOY娛樂一周</title>
+    <title lang="zh">HOYеЁӣжЁӮдёҖе‘Ё</title>
   </programme>
   <programme channel="HOY 77" start="20260913123000 +0800" stop="20260913125500 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260913125500 +0800" stop="20260913130500 +0800">
-    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <title lang="zh">жқұж–№иЎЁиЎҢTake Your Time зү№зҙ„ : дёҖеҲ»пјҺжҷӮе…ү</title>
   </programme>
   <programme channel="HOY 77" start="20260913130500 +0800" stop="20260913140000 +0800">
-    <title lang="zh">海上壽司店</title>
+    <title lang="zh">жө·дёҠеЈҪеҸёеә—</title>
   </programme>
   <programme channel="HOY 77" start="20260913140000 +0800" stop="20260913143000 +0800">
-    <title lang="zh">四處首羅</title>
+    <title lang="zh">еӣӣиҷ•йҰ–зҫ…</title>
   </programme>
   <programme channel="HOY 77" start="20260913143000 +0800" stop="20260913150000 +0800">
-    <title lang="zh">香港潮屬社團總會慈善基金呈獻 : 盂蘭「盛」會全接觸 2</title>
+    <title lang="zh">йҰҷжёҜжҪ®еұ¬зӨҫеңҳзёҪжңғж…Ҳе–„еҹәйҮ‘е‘ҲзҚ» : зӣӮиҳӯгҖҢзӣӣгҖҚжңғе…ЁжҺҘи§ё 2</title>
   </programme>
   <programme channel="HOY 77" start="20260913150000 +0800" stop="20260913153000 +0800">
-    <title lang="zh">運動關注組</title>
+    <title lang="zh">йҒӢеӢ•й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260913153000 +0800" stop="20260913160000 +0800">
-    <title lang="zh">數碼生活斷捨離</title>
+    <title lang="zh">ж•ёзўјз”ҹжҙ»ж–·жҚЁйӣў</title>
   </programme>
   <programme channel="HOY 77" start="20260913160000 +0800" stop="20260913163000 +0800">
-    <title lang="zh">汪汪隊立大功</title>
+    <title lang="zh">жұӘжұӘйҡҠз«ӢеӨ§еҠҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260913163000 +0800" stop="20260913170000 +0800">
-    <title lang="zh">小怪獸阿蒙</title>
+    <title lang="zh">е°ҸжҖӘзҚёйҳҝи’ҷ</title>
   </programme>
   <programme channel="HOY 77" start="20260913170000 +0800" stop="20260913180000 +0800">
-    <title lang="zh">香料貿易之路</title>
+    <title lang="zh">йҰҷж–ҷиІҝжҳ“д№Ӣи·Ҝ</title>
   </programme>
   <programme channel="HOY 77" start="20260913180000 +0800" stop="20260913183000 +0800">
-    <title lang="zh">開門七件事</title>
+    <title lang="zh">й–Ӣй–Җдёғд»¶дәӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260913183000 +0800" stop="20260913190000 +0800">
-    <title lang="zh">雪板呼嘯—阿勒泰毛皮滑雪紀實</title>
+    <title lang="zh">йӣӘжқҝе‘јеҳҜвҖ”йҳҝеӢ’жі°жҜӣзҡ®ж»‘йӣӘзҙҖеҜҰ</title>
   </programme>
   <programme channel="HOY 77" start="20260913190000 +0800" stop="20260913192500 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260913192500 +0800" stop="20260913193000 +0800">
-    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <title lang="zh">жқұж–№иЎЁиЎҢTake Your Time зү№зҙ„ : дёҖеҲ»пјҺжҷӮе…ү</title>
   </programme>
   <programme channel="HOY 77" start="20260913193000 +0800" stop="20260913200000 +0800">
-    <title lang="zh">五平方Squarefoot 優質樓盤專區特約 : 樓盤傳真</title>
+    <title lang="zh">дә”е№іж–№Squarefoot е„ӘиіӘжЁ“зӣӨе°ҲеҚҖзү№зҙ„ : жЁ“зӣӨеӮізңҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260913200000 +0800" stop="20260913210000 +0800">
-    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <title lang="zh">з«ӢйӮҰжҠ—з”ІйҶӣж·Ёе‘іе…’з«ҘжјҶзі»еҲ—зү№зҙ„ : з©әй–“ж”№йҖ зҺӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260913210000 +0800" stop="20260913213000 +0800">
-    <title lang="zh">為食鐵道遊</title>
+    <title lang="zh">зӮәйЈҹйҗөйҒ“йҒҠ</title>
   </programme>
   <programme channel="HOY 77" start="20260913213000 +0800" stop="20260913220000 +0800">
-    <title lang="zh">關於．快樂的死亡 2</title>
+    <title lang="zh">й—ңж–јпјҺеҝ«жЁӮзҡ„жӯ»дәЎ 2</title>
   </programme>
   <programme channel="HOY 77" start="20260913220000 +0800" stop="20260913223000 +0800">
-    <title lang="zh">日之名物</title>
+    <title lang="zh">ж—Ҙд№ӢеҗҚзү©</title>
   </programme>
   <programme channel="HOY 77" start="20260913223000 +0800" stop="20260913230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260913230000 +0800" stop="20260913233000 +0800">
-    <title lang="zh">HOY榜啦</title>
+    <title lang="zh">HOYжҰңе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260913233000 +0800" stop="20260913235500 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260913235500 +0800" stop="20260914020000 +0800">
-    <title lang="zh">FIFA U-20 世界盃女子足球賽 - 哥倫比亞 對 北韓</title>
+    <title lang="zh">FIFA U-20 дё–з•ҢзӣғеҘіеӯҗи¶ізҗғиіҪ - е“ҘеҖ«жҜ”дәһ е°Қ еҢ—йҹ“</title>
   </programme>
   <programme channel="HOY 77" start="20260914020000 +0800" stop="20260914023000 +0800">
-    <title lang="zh">五平方Squarefoot 優質樓盤專區特約 : 樓盤傳真</title>
+    <title lang="zh">дә”е№іж–№Squarefoot е„ӘиіӘжЁ“зӣӨе°ҲеҚҖзү№зҙ„ : жЁ“зӣӨеӮізңҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260914023000 +0800" stop="20260914030000 +0800">
-    <title lang="zh">嘻哈馬場</title>
+    <title lang="zh">еҳ»е“ҲйҰ¬е ҙ</title>
   </programme>
   <programme channel="HOY 77" start="20260914030000 +0800" stop="20260914060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260914060000 +0800" stop="20260914070000 +0800">
-    <title lang="zh">田耕紀 第21集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第21集</title>
   </programme>
   <programme channel="HOY 77" start="20260914070000 +0800" stop="20260914073000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260914073000 +0800" stop="20260914075500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260914075500 +0800" stop="20260914080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260914080000 +0800" stop="20260914090000 +0800">
-    <title lang="zh">黑金風暴 第29集</title>
+    <title lang="zh">й»‘йҮ‘йўЁжҡҙ 第29集</title>
   </programme>
   <programme channel="HOY 77" start="20260914090000 +0800" stop="20260914093000 +0800">
-    <title lang="zh">香港必食40道菜</title>
+    <title lang="zh">йҰҷжёҜеҝ…йЈҹ40йҒ“иҸң</title>
   </programme>
   <programme channel="HOY 77" start="20260914093000 +0800" stop="20260914100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260914100000 +0800" stop="20260914103000 +0800">
-    <title lang="zh">為食鐵道遊</title>
+    <title lang="zh">зӮәйЈҹйҗөйҒ“йҒҠ</title>
   </programme>
   <programme channel="HOY 77" start="20260914103000 +0800" stop="20260914110000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260914110000 +0800" stop="20260914113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260914113000 +0800" stop="20260914123000 +0800">
-    <title lang="zh">田耕紀 第22集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第22集</title>
   </programme>
   <programme channel="HOY 77" start="20260914123000 +0800" stop="20260914130000 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260914130000 +0800" stop="20260914133000 +0800">
-    <title lang="zh">HOY榜啦</title>
+    <title lang="zh">HOYжҰңе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260914133000 +0800" stop="20260914140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260914140000 +0800" stop="20260914143000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260914143000 +0800" stop="20260914160000 +0800">
-    <title lang="zh">HOY 枱啦</title>
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260914160000 +0800" stop="20260914163000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260914163000 +0800" stop="20260914170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <title lang="zh">и¶…з”ІиҹІжҲ°иЁҳ иҒ–еҹҹеӮіиӘӘ</title>
   </programme>
   <programme channel="HOY 77" start="20260914170000 +0800" stop="20260914173000 +0800">
-    <title lang="zh">藍精靈</title>
+    <title lang="zh">и—ҚзІҫйқҲ</title>
   </programme>
   <programme channel="HOY 77" start="20260914173000 +0800" stop="20260914180000 +0800">
-    <title lang="zh">凱特與米米兔</title>
+    <title lang="zh">еҮұзү№иҲҮзұізұіе…”</title>
   </programme>
   <programme channel="HOY 77" start="20260914180000 +0800" stop="20260914183000 +0800">
-    <title lang="zh">江湖菜館</title>
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
   <programme channel="HOY 77" start="20260914183000 +0800" stop="20260914190000 +0800">
-    <title lang="zh">香港必食40道菜</title>
+    <title lang="zh">йҰҷжёҜеҝ…йЈҹ40йҒ“иҸң</title>
   </programme>
   <programme channel="HOY 77" start="20260914190000 +0800" stop="20260914195000 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260914195000 +0800" stop="20260914200000 +0800">
-    <title lang="zh">28Hse 搵樓App 特約 : 每日樓市</title>
+    <title lang="zh">28Hse жҗөжЁ“App зү№зҙ„ : жҜҸж—ҘжЁ“еёӮ</title>
   </programme>
   <programme channel="HOY 77" start="20260914200000 +0800" stop="20260914202500 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260914202500 +0800" stop="20260914203000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260914203000 +0800" stop="20260914210000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260914210000 +0800" stop="20260914212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260914212500 +0800" stop="20260914213000 +0800">
-    <title lang="zh">亞運 919</title>
+    <title lang="zh">дәһйҒӢ 919</title>
   </programme>
   <programme channel="HOY 77" start="20260914213000 +0800" stop="20260914220000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260914220000 +0800" stop="20260914223000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260914223000 +0800" stop="20260914230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260914230000 +0800" stop="20260914233000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260914233000 +0800" stop="20260914234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260914234500 +0800" stop="20260915004500 +0800">
-    <title lang="zh">晚安晚安</title>
+    <title lang="zh">жҷҡе®үжҷҡе®ү</title>
   </programme>
-  <programme channel="HOY 77" start="20260915004500 +0800" stop="20260915005500 +0800">
-    <title lang="zh">發明王</title>
+  <programme channel="HOY 77" start="20260915004500 +0800" stop="20260915014500 +0800">
+    <title lang="zh">дјҚе§‘еЁҳзңҹиӯҳйЈҹ</title>
   </programme>
-  <programme channel="HOY 77" start="20260915005500 +0800" stop="20260915030000 +0800">
-    <title lang="zh">瑞典超級足球聯賽 - 天狼星 對 迪加科斯</title>
-  </programme>
-  <programme channel="HOY 77" start="20260915030000 +0800" stop="20260915031500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+  <programme channel="HOY 77" start="20260915014500 +0800" stop="20260915031500 +0800">
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260915031500 +0800" stop="20260915060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260915060000 +0800" stop="20260915070000 +0800">
-    <title lang="zh">田耕紀 第22集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第22集</title>
   </programme>
   <programme channel="HOY 77" start="20260915070000 +0800" stop="20260915073000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260915073000 +0800" stop="20260915075500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260915075500 +0800" stop="20260915080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260915080000 +0800" stop="20260915090000 +0800">
-    <title lang="zh">黑金風暴 第30集</title>
+    <title lang="zh">й»‘йҮ‘йўЁжҡҙ 第30集</title>
   </programme>
   <programme channel="HOY 77" start="20260915090000 +0800" stop="20260915093000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260915093000 +0800" stop="20260915100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260915100000 +0800" stop="20260915103000 +0800">
-    <title lang="zh">香港潮屬社團總會慈善基金呈獻 : 盂蘭「盛」會全接觸 2</title>
+    <title lang="zh">йҰҷжёҜжҪ®еұ¬зӨҫеңҳзёҪжңғж…Ҳе–„еҹәйҮ‘е‘ҲзҚ» : зӣӮиҳӯгҖҢзӣӣгҖҚжңғе…ЁжҺҘи§ё 2</title>
   </programme>
   <programme channel="HOY 77" start="20260915103000 +0800" stop="20260915110000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260915110000 +0800" stop="20260915113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260915113000 +0800" stop="20260915123000 +0800">
-    <title lang="zh">田耕紀 第23集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第23集</title>
   </programme>
   <programme channel="HOY 77" start="20260915123000 +0800" stop="20260915130000 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260915130000 +0800" stop="20260915133000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260915133000 +0800" stop="20260915140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260915140000 +0800" stop="20260915143000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260915143000 +0800" stop="20260915160000 +0800">
-    <title lang="zh">HOY 枱啦</title>
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260915160000 +0800" stop="20260915163000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260915163000 +0800" stop="20260915170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <title lang="zh">и¶…з”ІиҹІжҲ°иЁҳ иҒ–еҹҹеӮіиӘӘ</title>
   </programme>
   <programme channel="HOY 77" start="20260915170000 +0800" stop="20260915173000 +0800">
-    <title lang="zh">藍精靈</title>
+    <title lang="zh">и—ҚзІҫйқҲ</title>
   </programme>
   <programme channel="HOY 77" start="20260915173000 +0800" stop="20260915180000 +0800">
-    <title lang="zh">凱特與米米兔</title>
+    <title lang="zh">еҮұзү№иҲҮзұізұіе…”</title>
   </programme>
   <programme channel="HOY 77" start="20260915180000 +0800" stop="20260915183000 +0800">
-    <title lang="zh">江湖菜館</title>
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
   <programme channel="HOY 77" start="20260915183000 +0800" stop="20260915190000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260915190000 +0800" stop="20260915195000 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260915195000 +0800" stop="20260915200000 +0800">
-    <title lang="zh">28Hse 搵樓App 特約 : 每日樓市</title>
+    <title lang="zh">28Hse жҗөжЁ“App зү№зҙ„ : жҜҸж—ҘжЁ“еёӮ</title>
   </programme>
   <programme channel="HOY 77" start="20260915200000 +0800" stop="20260915203000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260915203000 +0800" stop="20260915210000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260915210000 +0800" stop="20260915212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260915212500 +0800" stop="20260915213000 +0800">
-    <title lang="zh">亞運 919</title>
+    <title lang="zh">дәһйҒӢ 919</title>
   </programme>
   <programme channel="HOY 77" start="20260915213000 +0800" stop="20260915220000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260915220000 +0800" stop="20260915223000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260915223000 +0800" stop="20260915230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260915230000 +0800" stop="20260915233000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260915233000 +0800" stop="20260915234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260915234500 +0800" stop="20260916001500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260916001500 +0800" stop="20260916004500 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260916004500 +0800" stop="20260916014500 +0800">
-    <title lang="zh">伍姑娘真識食</title>
+    <title lang="zh">дјҚе§‘еЁҳзңҹиӯҳйЈҹ</title>
   </programme>
   <programme channel="HOY 77" start="20260916014500 +0800" stop="20260916031500 +0800">
-    <title lang="zh">HOY 枱啦</title>
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260916031500 +0800" stop="20260916060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260916060000 +0800" stop="20260916070000 +0800">
-    <title lang="zh">田耕紀 第23集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第23集</title>
   </programme>
   <programme channel="HOY 77" start="20260916070000 +0800" stop="20260916073000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260916073000 +0800" stop="20260916075500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260916075500 +0800" stop="20260916080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260916080000 +0800" stop="20260916083000 +0800">
-    <title lang="zh">名廚Luke印度之旅</title>
+    <title lang="zh">еҗҚе»ҡLukeеҚ°еәҰд№Ӣж—…</title>
   </programme>
   <programme channel="HOY 77" start="20260916083000 +0800" stop="20260916090000 +0800">
-    <title lang="zh">趣趣動物樂園</title>
+    <title lang="zh">и¶Ји¶ЈеӢ•зү©жЁӮең’</title>
   </programme>
   <programme channel="HOY 77" start="20260916090000 +0800" stop="20260916093000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260916093000 +0800" stop="20260916100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260916100000 +0800" stop="20260916103000 +0800">
-    <title lang="zh">關於．快樂的死亡 2</title>
+    <title lang="zh">й—ңж–јпјҺеҝ«жЁӮзҡ„жӯ»дәЎ 2</title>
   </programme>
   <programme channel="HOY 77" start="20260916103000 +0800" stop="20260916110000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260916110000 +0800" stop="20260916113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260916113000 +0800" stop="20260916123000 +0800">
-    <title lang="zh">田耕紀 第24集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第24集</title>
   </programme>
   <programme channel="HOY 77" start="20260916123000 +0800" stop="20260916130000 +0800">
-    <title lang="zh">真深好玩</title>
+    <title lang="zh">зңҹж·ұеҘҪзҺ©</title>
   </programme>
   <programme channel="HOY 77" start="20260916130000 +0800" stop="20260916133000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260916133000 +0800" stop="20260916140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260916140000 +0800" stop="20260916143000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260916143000 +0800" stop="20260916145500 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260916145500 +0800" stop="20260916163000 +0800">
-    <title lang="zh">愛知‧名古屋亞運女子排球賽 - 南韓 對 中國香港</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢеҘіеӯҗжҺ’зҗғиіҪ - еҚ—йҹ“ е°Қ дёӯеңӢйҰҷжёҜ</title>
   </programme>
   <programme channel="HOY 77" start="20260916163000 +0800" stop="20260916170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <title lang="zh">и¶…з”ІиҹІжҲ°иЁҳ иҒ–еҹҹеӮіиӘӘ</title>
   </programme>
   <programme channel="HOY 77" start="20260916170000 +0800" stop="20260916173000 +0800">
-    <title lang="zh">藍精靈</title>
+    <title lang="zh">и—ҚзІҫйқҲ</title>
   </programme>
   <programme channel="HOY 77" start="20260916173000 +0800" stop="20260916180000 +0800">
-    <title lang="zh">凱特與米米兔</title>
+    <title lang="zh">еҮұзү№иҲҮзұізұіе…”</title>
   </programme>
   <programme channel="HOY 77" start="20260916180000 +0800" stop="20260916183000 +0800">
-    <title lang="zh">手語新聞報道</title>
+    <title lang="zh">жүӢиӘһж–°иҒһе ұйҒ“</title>
   </programme>
   <programme channel="HOY 77" start="20260916183000 +0800" stop="20260916190000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260916190000 +0800" stop="20260916200000 +0800">
-    <title lang="zh">毛孩趣怪組</title>
+    <title lang="zh">жҜӣеӯ©и¶ЈжҖӘзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260916200000 +0800" stop="20260916202500 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260916202500 +0800" stop="20260916203000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260916203000 +0800" stop="20260916210000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260916210000 +0800" stop="20260916212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260916212500 +0800" stop="20260916213000 +0800">
-    <title lang="zh">亞運 919</title>
+    <title lang="zh">дәһйҒӢ 919</title>
   </programme>
   <programme channel="HOY 77" start="20260916213000 +0800" stop="20260916220000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260916220000 +0800" stop="20260916223000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260916223000 +0800" stop="20260916230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260916230000 +0800" stop="20260916233000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260916233000 +0800" stop="20260916234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260916234500 +0800" stop="20260917001500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260917001500 +0800" stop="20260917002500 +0800">
-    <title lang="zh">發明王</title>
+    <title lang="zh">зҷјжҳҺзҺӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260917002500 +0800" stop="20260917023000 +0800">
-    <title lang="zh">FIFA U-20 世界盃女子足球賽十六強</title>
+    <title lang="zh">FIFA U-20 дё–з•ҢзӣғеҘіеӯҗи¶ізҗғиіҪеҚҒе…ӯеј·</title>
   </programme>
   <programme channel="HOY 77" start="20260917023000 +0800" stop="20260917030000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260917030000 +0800" stop="20260917031500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260917031500 +0800" stop="20260917060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260917060000 +0800" stop="20260917070000 +0800">
-    <title lang="zh">田耕紀 第24集</title>
+    <title lang="zh">з”°иҖ•зҙҖ 第24集</title>
   </programme>
   <programme channel="HOY 77" start="20260917070000 +0800" stop="20260917073000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260917073000 +0800" stop="20260917075500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260917075500 +0800" stop="20260917080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260917080000 +0800" stop="20260917083000 +0800">
-    <title lang="zh">名廚Luke印度之旅</title>
+    <title lang="zh">еҗҚе»ҡLukeеҚ°еәҰд№Ӣж—…</title>
   </programme>
   <programme channel="HOY 77" start="20260917083000 +0800" stop="20260917090000 +0800">
-    <title lang="zh">趣趣動物樂園</title>
+    <title lang="zh">и¶Ји¶ЈеӢ•зү©жЁӮең’</title>
   </programme>
   <programme channel="HOY 77" start="20260917090000 +0800" stop="20260917093000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260917093000 +0800" stop="20260917100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260917100000 +0800" stop="20260917103000 +0800">
-    <title lang="zh">見招拆招風水局之新．裝修佈局</title>
+    <title lang="zh">иҰӢжӢӣжӢҶжӢӣйўЁж°ҙеұҖд№Ӣж–°пјҺиЈқдҝ®дҪҲеұҖ</title>
   </programme>
   <programme channel="HOY 77" start="20260917103000 +0800" stop="20260917110000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260917110000 +0800" stop="20260917113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260917113000 +0800" stop="20260917123000 +0800">
-    <title lang="zh">移居夢想「家」</title>
+    <title lang="zh">з§»еұ…еӨўжғігҖҢе®¶гҖҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260917123000 +0800" stop="20260917125500 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260917125500 +0800" stop="20260917130000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260917130000 +0800" stop="20260917133000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260917133000 +0800" stop="20260917140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260917140000 +0800" stop="20260917143000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260917143000 +0800" stop="20260917145500 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260917145500 +0800" stop="20260917163000 +0800">
-    <title lang="zh">愛知‧名古屋亞運女子排球賽 - 中國香港 對 越南</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢеҘіеӯҗжҺ’зҗғиіҪ - дёӯеңӢйҰҷжёҜ е°Қ и¶ҠеҚ—</title>
   </programme>
   <programme channel="HOY 77" start="20260917163000 +0800" stop="20260917170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <title lang="zh">и¶…з”ІиҹІжҲ°иЁҳ иҒ–еҹҹеӮіиӘӘ</title>
   </programme>
   <programme channel="HOY 77" start="20260917170000 +0800" stop="20260917173000 +0800">
-    <title lang="zh">藍精靈</title>
+    <title lang="zh">и—ҚзІҫйқҲ</title>
   </programme>
   <programme channel="HOY 77" start="20260917173000 +0800" stop="20260917180000 +0800">
-    <title lang="zh">凱特與米米兔</title>
+    <title lang="zh">еҮұзү№иҲҮзұізұіе…”</title>
   </programme>
   <programme channel="HOY 77" start="20260917180000 +0800" stop="20260917183000 +0800">
-    <title lang="zh">江湖菜館</title>
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
   <programme channel="HOY 77" start="20260917183000 +0800" stop="20260917190000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260917190000 +0800" stop="20260917195000 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260917195000 +0800" stop="20260917200000 +0800">
-    <title lang="zh">28Hse 搵樓App 特約 : 每日樓市</title>
+    <title lang="zh">28Hse жҗөжЁ“App зү№зҙ„ : жҜҸж—ҘжЁ“еёӮ</title>
   </programme>
   <programme channel="HOY 77" start="20260917200000 +0800" stop="20260917203000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260917203000 +0800" stop="20260917210000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260917210000 +0800" stop="20260917212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260917212500 +0800" stop="20260917213000 +0800">
-    <title lang="zh">亞運 919</title>
+    <title lang="zh">дәһйҒӢ 919</title>
   </programme>
   <programme channel="HOY 77" start="20260917213000 +0800" stop="20260917220000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260917220000 +0800" stop="20260917223000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260917223000 +0800" stop="20260917230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260917230000 +0800" stop="20260917233000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260917233000 +0800" stop="20260917234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260917234500 +0800" stop="20260918001500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260918001500 +0800" stop="20260918002500 +0800">
-    <title lang="zh">發明王</title>
+    <title lang="zh">зҷјжҳҺзҺӢ</title>
   </programme>
   <programme channel="HOY 77" start="20260918002500 +0800" stop="20260918023000 +0800">
-    <title lang="zh">FIFA U-20 世界盃女子足球賽十六強</title>
+    <title lang="zh">FIFA U-20 дё–з•ҢзӣғеҘіеӯҗи¶ізҗғиіҪеҚҒе…ӯеј·</title>
   </programme>
   <programme channel="HOY 77" start="20260918023000 +0800" stop="20260918030000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260918030000 +0800" stop="20260918031500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
   <programme channel="HOY 77" start="20260918031500 +0800" stop="20260918060000 +0800">
-    <title lang="zh">魚樂無限</title>
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
   <programme channel="HOY 77" start="20260918060000 +0800" stop="20260918070000 +0800">
-    <title lang="zh">移居夢想「家」</title>
+    <title lang="zh">з§»еұ…еӨўжғігҖҢе®¶гҖҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260918070000 +0800" stop="20260918073000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260918073000 +0800" stop="20260918075500 +0800">
-    <title lang="zh">亞洲TOP TEN 台灣篇</title>
+    <title lang="zh">дәһжҙІTOP TEN еҸ°зҒЈзҜҮ</title>
   </programme>
   <programme channel="HOY 77" start="20260918075500 +0800" stop="20260918080000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260918080000 +0800" stop="20260918083000 +0800">
-    <title lang="zh">名廚Luke印度之旅</title>
+    <title lang="zh">еҗҚе»ҡLukeеҚ°еәҰд№Ӣж—…</title>
   </programme>
   <programme channel="HOY 77" start="20260918083000 +0800" stop="20260918090000 +0800">
-    <title lang="zh">趣趣動物樂園</title>
+    <title lang="zh">и¶Ји¶ЈеӢ•зү©жЁӮең’</title>
   </programme>
   <programme channel="HOY 77" start="20260918090000 +0800" stop="20260918093000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260918093000 +0800" stop="20260918100000 +0800">
-    <title lang="zh">獨家旅行團</title>
+    <title lang="zh">зҚЁе®¶ж—…иЎҢеңҳ</title>
   </programme>
   <programme channel="HOY 77" start="20260918100000 +0800" stop="20260918103000 +0800">
-    <title lang="zh">女遊大阪之御堂筋線</title>
+    <title lang="zh">еҘійҒҠеӨ§йҳӘд№ӢеҫЎе ӮзӯӢз·ҡ</title>
   </programme>
   <programme channel="HOY 77" start="20260918103000 +0800" stop="20260918110000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260918110000 +0800" stop="20260918113000 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260918113000 +0800" stop="20260918123000 +0800">
-    <title lang="zh">移居夢想「家」</title>
+    <title lang="zh">з§»еұ…еӨўжғігҖҢе®¶гҖҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260918123000 +0800" stop="20260918125500 +0800">
-    <title lang="zh">午間新聞</title>
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260918125500 +0800" stop="20260918130000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260918130000 +0800" stop="20260918133000 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260918133000 +0800" stop="20260918140000 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260918140000 +0800" stop="20260918143000 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260918143000 +0800" stop="20260918160000 +0800">
-    <title lang="zh">HOY 枱啦</title>
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260918160000 +0800" stop="20260918163000 +0800">
-    <title lang="zh">煮題COOK</title>
+    <title lang="zh">з…®йЎҢCOOK</title>
   </programme>
   <programme channel="HOY 77" start="20260918163000 +0800" stop="20260918170000 +0800">
-    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <title lang="zh">и¶…з”ІиҹІжҲ°иЁҳ иҒ–еҹҹеӮіиӘӘ</title>
   </programme>
   <programme channel="HOY 77" start="20260918170000 +0800" stop="20260918173000 +0800">
-    <title lang="zh">藍精靈</title>
+    <title lang="zh">и—ҚзІҫйқҲ</title>
   </programme>
   <programme channel="HOY 77" start="20260918173000 +0800" stop="20260918180000 +0800">
-    <title lang="zh">凱特與米米兔</title>
+    <title lang="zh">еҮұзү№иҲҮзұізұіе…”</title>
   </programme>
   <programme channel="HOY 77" start="20260918180000 +0800" stop="20260918183000 +0800">
-    <title lang="zh">江湖菜館</title>
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
   <programme channel="HOY 77" start="20260918183000 +0800" stop="20260918190000 +0800">
-    <title lang="zh">名廚私藏12味</title>
+    <title lang="zh">еҗҚе»ҡз§Ғи—Ҹ12е‘і</title>
   </programme>
   <programme channel="HOY 77" start="20260918190000 +0800" stop="20260918195000 +0800">
-    <title lang="zh">7點直播室</title>
+    <title lang="zh">7й»һзӣҙж’ӯе®Ө</title>
   </programme>
   <programme channel="HOY 77" start="20260918195000 +0800" stop="20260918200000 +0800">
-    <title lang="zh">28Hse 搵樓App 特約 : 每日樓市</title>
+    <title lang="zh">28Hse жҗөжЁ“App зү№зҙ„ : жҜҸж—ҘжЁ“еёӮ</title>
   </programme>
   <programme channel="HOY 77" start="20260918200000 +0800" stop="20260918202500 +0800">
-    <title lang="zh">一線搜查</title>
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
   <programme channel="HOY 77" start="20260918202500 +0800" stop="20260918203000 +0800">
-    <title lang="zh">HOY AI 天氣預報</title>
+    <title lang="zh">HOY AI еӨ©ж°Јй җе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260918203000 +0800" stop="20260918205500 +0800">
-    <title lang="zh">健康關注組</title>
+    <title lang="zh">еҒҘеә·й—ңжіЁзө„</title>
   </programme>
   <programme channel="HOY 77" start="20260918205500 +0800" stop="20260918210000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
   <programme channel="HOY 77" start="20260918210000 +0800" stop="20260918212500 +0800">
-    <title lang="zh">詹姆士出走料理</title>
+    <title lang="zh">и©№е§ҶеЈ«еҮәиө°ж–ҷзҗҶ</title>
   </programme>
   <programme channel="HOY 77" start="20260918212500 +0800" stop="20260918213000 +0800">
-    <title lang="zh">亞運 919</title>
+    <title lang="zh">дәһйҒӢ 919</title>
   </programme>
   <programme channel="HOY 77" start="20260918213000 +0800" stop="20260918215500 +0800">
-    <title lang="zh">大航假期呈獻 : 我要做主播</title>
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
   <programme channel="HOY 77" start="20260918215500 +0800" stop="20260918220000 +0800">
-    <title lang="zh">HOY AI 天氣預報</title>
+    <title lang="zh">HOY AI еӨ©ж°Јй җе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260918220000 +0800" stop="20260918223000 +0800">
-    <title lang="zh">遊走全世界</title>
+    <title lang="zh">йҒҠиө°е…Ёдё–з•Ң</title>
   </programme>
   <programme channel="HOY 77" start="20260918223000 +0800" stop="20260918230000 +0800">
-    <title lang="zh">愛知‧名古屋亞運速報</title>
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢйҖҹе ұ</title>
   </programme>
   <programme channel="HOY 77" start="20260918230000 +0800" stop="20260918233000 +0800">
-    <title lang="zh">有線新聞</title>
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
   <programme channel="HOY 77" start="20260918233000 +0800" stop="20260918234500 +0800">
-    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <title lang="zh">еЁӣжЁӮй ӯжўқ E-news Headline</title>
   </programme>
-  <programme channel="HOY 78" start="20260911000000 +0800" stop="20260911003000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260918234500 +0800" stop="20260919004500 +0800">
+    <title lang="zh">жҷҡе®үжҷҡе®ү</title>
   </programme>
-  <programme channel="HOY 78" start="20260911003000 +0800" stop="20260911010000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919004500 +0800" stop="20260919014500 +0800">
+    <title lang="zh">дјҚе§‘еЁҳзңҹиӯҳйЈҹ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911010000 +0800" stop="20260911013000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919014500 +0800" stop="20260919031500 +0800">
+    <title lang="zh">HOY жһұе•Ұ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911013000 +0800" stop="20260911020000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919031500 +0800" stop="20260919060000 +0800">
+    <title lang="zh">йӯҡжЁӮз„Ўйҷҗ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911020000 +0800" stop="20260911023000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919060000 +0800" stop="20260919070000 +0800">
+    <title lang="zh">з§»еұ…еӨўжғігҖҢе®¶гҖҚ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911023000 +0800" stop="20260911030000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919070000 +0800" stop="20260919073000 +0800">
+    <title lang="zh">е…ұдә«ж»Ӣе‘і</title>
   </programme>
-  <programme channel="HOY 78" start="20260911030000 +0800" stop="20260911033000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919073000 +0800" stop="20260919075500 +0800">
+    <title lang="zh">дёӢдёҖз«ҷпјҢеүҚжө·вҖ”жёҜдәәеҢ—дёҠеүөжҘӯзҙҖдәӢ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911033000 +0800" stop="20260911040000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919075500 +0800" stop="20260919080000 +0800">
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911040000 +0800" stop="20260911043000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919080000 +0800" stop="20260919090000 +0800">
+    <title lang="zh">зҰҒеҚҖең°её¶</title>
   </programme>
-  <programme channel="HOY 78" start="20260911043000 +0800" stop="20260911050000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919090000 +0800" stop="20260919100000 +0800">
+    <title lang="zh">еҹ·еұӢйҒ”дәә</title>
   </programme>
-  <programme channel="HOY 78" start="20260911050000 +0800" stop="20260911053000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919100000 +0800" stop="20260919103000 +0800">
+    <title lang="zh">жұҹж№–иҸңйӨЁ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911053000 +0800" stop="20260911060000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919103000 +0800" stop="20260919110000 +0800">
+    <title lang="zh">еӣӣиҷ•йҰ–зҫ…</title>
   </programme>
-  <programme channel="HOY 78" start="20260911060000 +0800" stop="20260911063000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919110000 +0800" stop="20260919113000 +0800">
+    <title lang="zh">еӣ д№ңдәӢе‘ЁеңҚйҒҠ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911063000 +0800" stop="20260911070000 +0800">
-    <title lang="zh">一線搜查</title>
+  <programme channel="HOY 77" start="20260919113000 +0800" stop="20260919123000 +0800">
+    <title lang="zh">з«ӢйӮҰжҠ—з”ІйҶӣж·Ёе‘іе…’з«ҘжјҶзі»еҲ—зү№зҙ„ : з©әй–“ж”№йҖ зҺӢ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911070000 +0800" stop="20260911073000 +0800">
-    <title lang="zh">Cable 早晨</title>
+  <programme channel="HOY 77" start="20260919123000 +0800" stop="20260919125500 +0800">
+    <title lang="zh">еҚҲй–“ж–°иҒһ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911073000 +0800" stop="20260911080000 +0800">
-    <title lang="zh">Cable 早晨</title>
+  <programme channel="HOY 77" start="20260919125500 +0800" stop="20260919130500 +0800">
+    <title lang="zh">ж”ҝеҲ¶еҸҠе…§ең°дәӢеӢҷеұҖзІөжёҜжҫіеӨ§зҒЈеҚҖзҷјеұ•иҫҰе…¬е®Өе‘ҲзҚ» : зҒЈеҚҖеҝ«жӢҚ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911080000 +0800" stop="20260911083000 +0800">
-    <title lang="zh">Cable 早晨</title>
+  <programme channel="HOY 77" start="20260919130500 +0800" stop="20260919133000 +0800">
+    <title lang="zh">дёҖз·ҡжҗңжҹҘ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911083000 +0800" stop="20260911090000 +0800">
-    <title lang="zh">Cable 早晨</title>
+  <programme channel="HOY 77" start="20260919133000 +0800" stop="20260919140000 +0800">
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911090000 +0800" stop="20260911100000 +0800">
-    <title lang="zh">股市直播室</title>
+  <programme channel="HOY 77" start="20260919140000 +0800" stop="20260919150000 +0800">
+    <title lang="zh">зҰҒеҚҖең°её¶</title>
   </programme>
-  <programme channel="HOY 78" start="20260911100000 +0800" stop="20260911103000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919150000 +0800" stop="20260919153000 +0800">
+    <title lang="zh">еҳ»е“ҲйҰ¬е ҙ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911103000 +0800" stop="20260911110000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919153000 +0800" stop="20260919160000 +0800">
+    <title lang="zh">и¶…е№ізү№иіЈе ҙ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911110000 +0800" stop="20260911113000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919160000 +0800" stop="20260919193000 +0800">
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢжңғй–Ӣе№•е…ёзҰ®</title>
   </programme>
-  <programme channel="HOY 78" start="20260911113000 +0800" stop="20260911120000 +0800">
-    <title lang="zh">一線搜查</title>
+  <programme channel="HOY 77" start="20260919193000 +0800" stop="20260919200000 +0800">
+    <title lang="zh">еҲ—и»Ҡдәәз”ҹ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911120000 +0800" stop="20260911123000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919200000 +0800" stop="20260919203000 +0800">
+    <title lang="zh">иҘҝеҚЎйҳІж°ҙпјҢж”ҫеҝғпјҒзү№зҙ„ : е®үеұ…жЁӮжҘӯ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911123000 +0800" stop="20260911125500 +0800">
-    <title lang="zh">午間新聞</title>
+  <programme channel="HOY 77" start="20260919203000 +0800" stop="20260919220000 +0800">
+    <title lang="zh">еӨ§иҲӘеҒҮжңҹе‘ҲзҚ» : жҲ‘иҰҒеҒҡдё»ж’ӯ зөӮжҘөдёҖжҲ°</title>
   </programme>
-  <programme channel="HOY 78" start="20260911125500 +0800" stop="20260911130000 +0800">
-    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+  <programme channel="HOY 77" start="20260919220000 +0800" stop="20260919223000 +0800">
+    <title lang="zh">жңүз·ҡж–°иҒһ</title>
   </programme>
-  <programme channel="HOY 78" start="20260911130000 +0800" stop="20260911133000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911133000 +0800" stop="20260911140000 +0800">
-    <title lang="zh">智‧創未來</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911140000 +0800" stop="20260911143000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911143000 +0800" stop="20260911150000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911150000 +0800" stop="20260911153000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911153000 +0800" stop="20260911160000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911160000 +0800" stop="20260911163000 +0800">
-    <title lang="zh">股市直播室</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911163000 +0800" stop="20260911170000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911170000 +0800" stop="20260911173000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911173000 +0800" stop="20260911180000 +0800">
-    <title lang="zh">股市直播室</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911180000 +0800" stop="20260911183000 +0800">
-    <title lang="zh">手語新聞報道</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911183000 +0800" stop="20260911185000 +0800">
-    <title lang="zh">六點半新聞報道</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911185000 +0800" stop="20260911190000 +0800">
-    <title lang="zh">焦點財經</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911190000 +0800" stop="20260911195000 +0800">
-    <title lang="zh">7點直播室</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911195000 +0800" stop="20260911200000 +0800">
-    <title lang="zh">28Hse搵樓App特約 : 每日樓市</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911200000 +0800" stop="20260911203000 +0800">
-    <title lang="zh">國際最前線</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911203000 +0800" stop="20260911210000 +0800">
-    <title lang="zh">一線搜查</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911210000 +0800" stop="20260911214500 +0800">
-    <title lang="zh">晚間直播室</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911214500 +0800" stop="20260911220000 +0800">
-    <title lang="zh">焦點財經及28Hse搵樓App特約:每日樓市</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911220000 +0800" stop="20260911223000 +0800">
-    <title lang="zh">家國天下</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911223000 +0800" stop="20260911230000 +0800">
-    <title lang="zh">一線搜查</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911230000 +0800" stop="20260911233000 +0800">
-    <title lang="zh">有線新聞</title>
-  </programme>
-  <programme channel="HOY 78" start="20260911233000 +0800" stop="20260912000000 +0800">
-    <title lang="zh">有線新聞</title>
+  <programme channel="HOY 77" start="20260919223000 +0800" stop="20260919233000 +0800">
+    <title lang="zh">ж„ӣзҹҘвҖ§еҗҚеҸӨеұӢдәһйҒӢжңҖзІҫеҪ©</title>
   </programme>
   <programme channel="HOY 78" start="20260912000000 +0800" stop="20260912003000 +0800">
     <title lang="zh">有線新聞</title>
@@ -2791,6 +2602,153 @@
     <title lang="zh">一線搜查</title>
   </programme>
   <programme channel="HOY 78" start="20260918230000 +0800" stop="20260918233000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260918233000 +0800" stop="20260919000000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919000000 +0800" stop="20260919003000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919003000 +0800" stop="20260919010000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919010000 +0800" stop="20260919013000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919013000 +0800" stop="20260919020000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919020000 +0800" stop="20260919023000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919023000 +0800" stop="20260919030000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919030000 +0800" stop="20260919033000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919033000 +0800" stop="20260919040000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919040000 +0800" stop="20260919043000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919043000 +0800" stop="20260919050000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919050000 +0800" stop="20260919053000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919053000 +0800" stop="20260919060000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919060000 +0800" stop="20260919063000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919063000 +0800" stop="20260919070000 +0800">
+    <title lang="zh">一線搜查</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919070000 +0800" stop="20260919073000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919073000 +0800" stop="20260919080000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919080000 +0800" stop="20260919083000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919083000 +0800" stop="20260919090000 +0800">
+    <title lang="zh">小空間大活用 3</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919090000 +0800" stop="20260919093000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919093000 +0800" stop="20260919100000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919100000 +0800" stop="20260919103000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919103000 +0800" stop="20260919110000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919110000 +0800" stop="20260919113000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919113000 +0800" stop="20260919120000 +0800">
+    <title lang="zh">有理有得傾</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919120000 +0800" stop="20260919123000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919123000 +0800" stop="20260919125500 +0800">
+    <title lang="zh">午間新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919125500 +0800" stop="20260919130000 +0800">
+    <title lang="zh">政制及內地事務局粵港澳大灣區發展辦公室呈獻 : 灣區快拍</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919130000 +0800" stop="20260919133000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919133000 +0800" stop="20260919140000 +0800">
+    <title lang="zh">有理有得傾</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919140000 +0800" stop="20260919143000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919143000 +0800" stop="20260919150000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919150000 +0800" stop="20260919153000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919153000 +0800" stop="20260919160000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919160000 +0800" stop="20260919163000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919163000 +0800" stop="20260919170000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919170000 +0800" stop="20260919173000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919173000 +0800" stop="20260919180000 +0800">
+    <title lang="zh">有理有得傾</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919180000 +0800" stop="20260919183000 +0800">
+    <title lang="zh">手語新聞報道</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919183000 +0800" stop="20260919190000 +0800">
+    <title lang="zh">六點半新聞報道</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919190000 +0800" stop="20260919193000 +0800">
+    <title lang="zh">7點直播室</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919193000 +0800" stop="20260919200000 +0800">
+    <title lang="zh">智‧創未來</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919200000 +0800" stop="20260919203000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919203000 +0800" stop="20260919210000 +0800">
+    <title lang="zh">有理有得傾</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919210000 +0800" stop="20260919213000 +0800">
+    <title lang="zh">晚間直播室</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919213000 +0800" stop="20260919220000 +0800">
+    <title lang="zh">五平方Squarefoot優質樓盤專區特約 : 樓盤傳真</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919220000 +0800" stop="20260919223000 +0800">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919223000 +0800" stop="20260919230000 +0800">
+    <title lang="zh">智‧創未來</title>
+  </programme>
+  <programme channel="HOY 78" start="20260919230000 +0800" stop="20260919233000 +0800">
     <title lang="zh">有線新聞</title>
   </programme>
 </tv>
